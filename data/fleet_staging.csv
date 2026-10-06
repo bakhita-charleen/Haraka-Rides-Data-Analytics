@@ -1,0 +1,107 @@
+log_id,vehicle_plate,vehicle_make,vehicle_model,vehicle_year,vehicle_type,vehicle_status,event_type,event_date,liters,fuel_cost,odometer_reading,station_name,service_type,maintenance_cost,mechanic_name,next_service_due
+1,kda496f,Toyota,Axio,2018,Saloon,Active,Fuel,25/03/2025,42,7644,47131,  Ola Energy Langata  ,,,,
+2, KDA496F ,TOYOTA,Axio,2018,Saloon,Active,Fuel,06/03/2025,43,7826,47359,Total Energies Yaya,,,,
+3,KDA496F,Toyota,AXIO,2018,Saloon,Active,Fuel,05-28-2025,34,6188,47811,  Total Energies Yaya  ,,,,
+4,kda496f,Toyota,axio,2018,Saloon,Active,Fuel,2025-01-18,27,"KES 4,914",48066,Ola Energy Langata,,,,
+5,KDA496F,Toyota,Axio,2018,Saloon,Active,Fuel,2025-01-07,23,4186,48468,Total Energies Westlands,,,,
+6, KDA496F ,Toyota,axio,2018,Saloon,Active,Fuel,2025-05-08,15,2730,48971,ola energy langata,,,,
+7, KDA496F ,Toyota,axio,2018,Saloon,Active,Fuel,2025-06-09,24,4368,49340,OLA ENERGY LANGATA,,,,
+8,KDA496F,TOYOTA,Axio,2018,Saloon,Active,Fuel,14/04/2025,28,5096,49856,  Total Energies Westlands  ,,,,
+9,KDB833G,Toyota,FIELDER,2015,Hatchback,Active,FUEL,2025-04-17,35,6370,59803,Total Energies Westlands,,,,
+10,KDB833G,toyota,FIELDER,2015,Hatchback,Active,fuel,13/05/25,19,"KES 3,458",60212,Ola Energy Langata,,,,
+11,KDB833G,Toyota,Fielder,2015,Hatchback,Active,Fuel,2025-03-12,36,"KES 6,552",60624,  Total Energies Yaya  ,,,,
+12,kdb833g,Toyota,FIELDER,2015,Hatchback,Active,FUEL,2025-01-04,29,5278,61184,  Ola Energy Langata  ,,,,
+13, KDB833G ,Toyota,FIELDER,2015,Hatchback,Active,fuel,15/05/2025,35,"KES 6,370",61746,total energies westlands,,,,
+14,kdc598h,Nissan,Note,2019,SUV,Active,Fuel,17/06/2025,16,2912,30875,Shell Waiyaki Way,,,,
+15, KDC598H ,Nissan,note,2019,SUV,Active,fuel,2025-06-07,20,3640,31367,total energies westlands,,,,
+16,kdc598h,Nissan,Note,2019,SUV,Active,fuel,01-04-2025,23,4186,31722,Rubis Ngong Rd,,,,
+17, KDC598H ,Nissan,Note,2019,SUV,Active,Fuel,2025-04-22,25,4550,32066,Ola Energy Langata,,,,
+18,kdc598h,Nissan,NOTE,2019,SUV,Active,FUEL,24/04/2025,15,2730,32277,SHELL WAIYAKI WAY,,,,
+19,KDC598H,nissan,note,2019,SUV,Active,Fuel,04/05/25,34,6188,32707,Rubis Ngong Rd,,,,
+20,KDC598H,NISSAN,NOTE,2019,SUV,Active,Fuel,2025-01-17,35,6370,33015,Total Energies Yaya,,,,
+21, KDC598H ,Nissan,Note,2019,SUV,Active,Fuel,14/04/25,33,6006,33352,Ola Energy Langata,,,,
+22,KDD693I,Toyota,Premio,2020,Saloon,Active,Fuel,2025-05-25,39,7098,51745,SHELL WAIYAKI WAY,,,,
+23,KDD693I,Toyota,Premio,2020,Saloon,Active,Fuel,2025-01-22,30,5460,52285,Shell Waiyaki Way,,,,
+24,KDD693I,Toyota,Premio,2020,Saloon,Active,fuel,06-18-2025,44,8008,52637,TOTAL ENERGIES YAYA,,,,
+25,kdd693i,Toyota,PREMIO,2020,Saloon,Active,FUEL,2025-01-11,25,4550,52998,Ola Energy Langata,,,,
+26,KDA950K,Honda,FIT,2020,Hatchback,Active,Fuel,10/03/2025,25,4550,31328,Rubis Ngong Rd,,,,
+27,KDA950K,Honda,FIT,2020,Hatchback,Active,Fuel,25/03/2025,16,2912,31664,Total Energies Yaya,,,,
+28,KDA950K,Honda,Fit,2020,Hatchback,Active,Fuel,14/03/2025,29,5278,32042,Rubis Ngong Rd,,,,
+29,kda950k,Honda,Fit,2020,Hatchback,Active,fuel,2025-04-28,20,"KES 3,640",32373,Total Energies Westlands,,,,
+30,KDA950K,HONDA,FIT,2020,Hatchback,Active,Fuel,03-27-2025,32,5824,32638,Total Energies Westlands,,,,
+31,kda950k,Honda,Fit,2020,Hatchback,Active,Fuel,28/04/2025,36,6552,32885,Total Energies Westlands,,,,
+32,KDA950K,Honda,Fit,2020,Hatchback,Active,Fuel,22/04/25,23,4186,33335,SHELL WAIYAKI WAY,,,,
+33,kdb560l,TOYOTA,Vitz,2020,SUV,Active,fuel,2025-05-14,19,3458,44882,Total Energies Westlands,,,,
+34,kdb560l,Toyota,Vitz,2020,SUV,Active,Fuel,18/01/2025,34,6188,45219,Shell Waiyaki Way,,,,
+35, KDB560L ,TOYOTA,Vitz,2020,SUV,Active,FUEL,2025-03-13,34,6188,45475,Rubis Ngong Rd,,,,
+36,KDB560L,Toyota,Vitz,2020,SUV,Active,Fuel,2025-06-05,26,4732,45891,Shell Waiyaki Way,,,,
+37,KDB560L,TOYOTA,Vitz,2020,SUV,Active,Fuel,02-27-2025,29,5278,46197,Rubis Ngong Rd,,,,
+38,kdb560l,TOYOTA,Vitz,2020,SUV,Active,FUEL,2025-06-13,26,4732,46533,Ola Energy Langata,,,,
+39,kdb560l,Toyota,VITZ,2020,SUV,Active,Fuel,2025-06-20,36,"KES 6,552",46807,Shell Waiyaki Way,,,,
+40, KDB560L ,Toyota,Vitz,2020,SUV,Active,FUEL,2025-04-11,32,5824,47322,total energies westlands,,,,
+41,KDC384M,Subaru,Impreza,2022,Saloon,Active,Fuel,2025-02-10,22,4004,40437,Shell Waiyaki Way,,,,
+42, KDC384M ,Subaru,IMPREZA,2022,Saloon,Active,FUEL,2025-05-07,25,4550,40613,Total Energies Yaya,,,,
+43,kdc384m,Subaru,Impreza,2022,Saloon,Active,FUEL,05-21-2025,28,5096,40836,total energies westlands,,,,
+44,kdc384m,SUBARU,Impreza,2022,Saloon,Active,fuel,2025-05-21,30,"KES 5,460",41043,RUBIS NGONG RD,,,,
+45,KDC384M,Subaru,Impreza,2022,Saloon,Active,Fuel,2025-04-12,39,"KES 7,098",41266,Total Energies Yaya,,,,
+46,KDC384M,Subaru,impreza,2022,Saloon,Active,Fuel,08/04/2025,41,"KES 7,462",41544,shell waiyaki way,,,,
+47,KDC384M,Subaru,Impreza,2022,Saloon,Active,Fuel,27/01/2025,31,5642,41946,OLA ENERGY LANGATA,,,,
+48,KDD156F,nissan,Advan,2021,Saloon,Active,FUEL,01-08-2025,36,"KES 6,552",38710,shell waiyaki way,,,,
+49,kdd156f,Nissan,Advan,2021,Saloon,Active,FUEL,2025-04-23,44,"KES 8,008",38994,RUBIS NGONG RD,,,,
+50,KDD156F,Nissan,advan,2021,Saloon,Active,Fuel,2025-04-01,41,7462,39530,OLA ENERGY LANGATA,,,,
+51,kdd156f,Nissan,ADVAN,2021,Saloon,Active,FUEL,2025-05-08,37,"KES 6,734",39861,Ola Energy Langata,,,,
+52,KDD156F,nissan,Advan,2021,Saloon,Active,Fuel,03-01-2025,44,8008,40210,TOTAL ENERGIES YAYA,,,,
+53,kdd156f,NISSAN,Advan,2021,Saloon,Active,FUEL,02-17-2025,31,5642,40697,OLA ENERGY LANGATA,,,,
+54,kde501g,Toyota,wish,2016,Hatchback,Active,Fuel,2025-02-15,41,7462,46002,Shell Waiyaki Way,,,,
+55,KDE501G,Toyota,Wish,2016,Hatchback,Active,Fuel,19/04/2025,20,"KES 3,640",46596,Rubis Ngong Rd,,,,
+56,KDE501G,Toyota,Wish,2016,Hatchback,Active,FUEL,21/03/25,16,2912,47068,total energies yaya,,,,
+57,kde501g,Toyota,Wish,2016,Hatchback,Active,Fuel,10/06/2025,23,4186,47469,Ola Energy Langata,,,,
+58,KDE501G,toyota,Wish,2016,Hatchback,Active,Fuel,01-04-2025,17,"KES 3,094",47772,ola energy langata,,,,
+59,KDE501G,toyota,Wish,2016,Hatchback,Active,FUEL,05-16-2025,33,"KES 6,006",48084,Rubis Ngong Rd,,,,
+60,kde501g,Toyota,WISH,2016,Hatchback,Active,Fuel,2025-06-09,15,2730,48581,  Shell Waiyaki Way  ,,,,
+61,kda542h,Mazda,Axela,2016,SUV,Active,Fuel,2025-03-19,45,8190,20991,total energies yaya,,,,
+62,kda542h,Mazda,Axela,2016,SUV,Active,Fuel,2025-03-24,25,4550,21494,Total Energies Westlands,,,,
+63,KDA542H,Mazda,Axela,2016,SUV,Active,Fuel,2025-03-28,41,7462,21698,Total Energies Yaya,,,,
+64,KDA542H,MAZDA,axela,2016,SUV,Active,Fuel,03/06/25,34,6188,22055,Rubis Ngong Rd,,,,
+65,kda542h,Mazda,AXELA,2016,SUV,Active,Fuel,07/06/2025,35,6370,22574,TOTAL ENERGIES WESTLANDS,,,,
+66,KDA542H,MAZDA,Axela,2016,SUV,Active,FUEL,05-24-2025,42,"KES 7,644",23142,TOTAL ENERGIES YAYA,,,,
+67, KDA542H ,Mazda,Axela,2016,SUV,Active,Fuel,2025-02-27,34,"KES 6,188",23402,Total Energies Westlands,,,,
+68,KDB869I,Toyota,Probox,2022,Saloon,Under Repair,Fuel,01/01/2025,30,5460,43261,Shell Waiyaki Way,,,,
+69,KDB869I,Toyota,PROBOX,2022,Saloon,Under Repair,Fuel,2025-05-21,34,"KES 6,188",43448,Rubis Ngong Rd,,,,
+70,KDA496F,Toyota,AXIO,2018,Saloon,Active,MAINTENANCE,06/02/25,,,,,Oil Change,29562,CarCare Kenya,21/12/2025
+71,KDA496F,TOYOTA,AXIO,2018,Saloon,Active,MAINTENANCE,2025-04-25,,,,,General Service,2986,autofix nairobi,12/11/2025
+72,KDA496F,Toyota,Axio,2018,Saloon,Active,maintenance,12/01/2025,,,,,General Service,25666,CarCare Kenya,10/10/25
+73,KDA496F,Toyota,Axio,2018,Saloon,Active,Maintenance,2025-01-26,,,,,General Service,36518,CarCare Kenya,2025-08-25
+74, KDB833G ,TOYOTA,Fielder,2015,Hatchback,Active,MAINTENANCE,2025-06-10,,,,,Suspension Repair,14805,AUTOFIX NAIROBI,2025-11-27
+75,KDB833G,Toyota,Fielder,2015,Hatchback,Active,MAINTENANCE,01/04/2025,,,,,Tire Replacement,16767,Joseph Kiptoo Garage,07-15-2025
+76, KDB833G ,Toyota,Fielder,2015,Hatchback,Active,maintenance,2025-01-08,,,,,Battery Replacement,1638,Speedy Motors,2025-12-11
+77,KDC598H,Nissan,Note,2019,SUV,Active,MAINTENANCE,28/04/25,,,,,General Service,36606,  Speedy Motors  ,09-27-2025
+78,KDC598H,Nissan,Note,2019,SUV,Active,Maintenance,28/01/2025,,,,,Engine Repair,34289,RELIABLE AUTO WORKS,2025-08-12
+79,kdd693i,Toyota,Premio,2020,Saloon,Active,Maintenance,2025-01-23,,,,,Engine Repair,"KES 10,481",JOSEPH KIPTOO GARAGE,2025-11-19
+80, KDD693I ,Toyota,Premio,2020,Saloon,Active,Maintenance,22/02/2025,,,,,Battery Replacement,17090,Reliable Auto Works,2025-11-07
+81,kdd693i,Toyota,PREMIO,2020,Saloon,Active,Maintenance,2025-06-08,,,,,Battery Replacement,"KES 41,457",AutoFix Nairobi,12-19-2025
+82,KDD693I,Toyota,Premio,2020,Saloon,Active,Maintenance,05/03/25,,,,,Engine Repair,3517,CarCare Kenya,25/09/2025
+83,kde169j,Mazda,Demio,2018,Saloon,Active,MAINTENANCE,02-20-2025,,,,,Suspension Repair,11366,reliable auto works,2025-07-22
+84,kda950k,honda,Fit,2020,Hatchback,Active,Maintenance,2025-05-20,,,,,General Service,18187,joseph kiptoo garage,2025-11-10
+85,KDB560L,Toyota,Vitz,2020,SUV,Active,Maintenance,12/05/25,,,,,Engine Repair,9257,Speedy Motors,2025-10-25
+86,KDB560L,TOYOTA,VITZ,2020,SUV,Active,Maintenance,2025-03-10,,,,,Oil Change,29398,Speedy Motors,13/11/2025
+87,kdc384m,Subaru,Impreza,2022,Saloon,Active,MAINTENANCE,2025-04-26,,,,,Battery Replacement,"KES 15,519",AUTOFIX NAIROBI,10-12-2025
+88,KDC384M,SUBARU,impreza,2022,Saloon,Active,Maintenance,2025-01-26,,,,,Oil Change,17039,speedy motors,01/08/25
+89,KDC384M,subaru,impreza,2022,Saloon,Active,MAINTENANCE,2025-03-10,,,,,Brake Pads,18224,autofix nairobi,2025-10-27
+90,KDC384M,Subaru,Impreza,2022,Saloon,Active,maintenance,2025-02-07,,,,,Battery Replacement,6939,Speedy Motors,14/08/2025
+91,kdd156f,Nissan,Advan,2021,Saloon,Active,maintenance,24/02/2025,,,,,Tire Replacement,3174,CarCare Kenya,23/11/2025
+92,KDE501G,TOYOTA,Wish,2016,Hatchback,Active,maintenance,2025-02-03,,,,,Brake Pads,37436,  AutoFix Nairobi  ,2025-12-10
+93,KDE501G,Toyota,Wish,2016,Hatchback,Active,Maintenance,2025-05-10,,,,,Brake Pads,"KES 34,861",Speedy Motors,2025-10-10
+94,KDE501G,Toyota,Wish,2016,Hatchback,Active,MAINTENANCE,02-23-2025,,,,,Engine Repair,5160,Reliable Auto Works,05/10/2025
+95,KDA542H,Mazda,Axela,2016,SUV,Active,MAINTENANCE,2025-06-05,,,,,Brake Pads,"KES 43,553",Reliable Auto Works,2025-08-03
+96,KDA542H,Mazda,AXELA,2016,SUV,Active,Maintenance,2025-06-12,,,,,Oil Change,"KES 38,336",Speedy Motors,08-11-2025
+97, KDB869I ,Toyota,Probox,2022,Saloon,Under Repair,Maintenance,2025-01-02,,,,,General Service,30110,CarCare Kenya,25/10/2025
+98,KDB869I,toyota,PROBOX,2022,Saloon,Under Repair,Maintenance,06-23-2025,,,,,Engine Repair,12796,Speedy Motors,26/09/2025
+99,KDB869I,Toyota,probox,2022,Saloon,Under Repair,Maintenance,09/06/2025,,,,,Brake Pads,15527,Speedy Motors,08-02-2025
+100,KDB869I,Toyota,Probox,2022,Saloon,Under Repair,Maintenance,2025-04-28,,,,,Brake Pads,21801,Joseph Kiptoo Garage,2025-07-05
+101,KDB869I,Toyota,Probox,2022,Saloon,Under Repair,Maintenance,2025-06-09,,,,,Oil Change,4349,CarCare Kenya,2025-10-08
+102,KDB869I,TOYOTA,Probox,2022,Saloon,Under Repair,Maintenance,17/04/25,,,,,Brake Pads,32221,Joseph Kiptoo Garage,2025-07-16
+4,kda496f,Toyota,axio,2018,Saloon,Active,Fuel,2025-01-18,27,"KES 4,914",48066,Ola Energy Langata,,,,
+21, KDC598H ,Nissan,Note,2019,SUV,Active,Fuel,14/04/25,33,6006,33352,Ola Energy Langata,,,,
+41,KDC384M,Subaru,Impreza,2022,Saloon,Active,Fuel,2025-02-10,22,4004,40437,Shell Waiyaki Way,,,,
+56,KDE501G,Toyota,Wish,2016,Hatchback,Active,FUEL,21/03/25,16,2912,47068,total energies yaya,,,,

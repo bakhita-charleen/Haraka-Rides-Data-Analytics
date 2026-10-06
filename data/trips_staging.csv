@@ -1,0 +1,407 @@
+trip_id,customer_name,customer_phone,customer_area,driver_name,driver_phone,vehicle_plate,vehicle_make,vehicle_model,pickup_area,dropoff_area,trip_date,pickup_time,distance_km,payment_method,status,fare_amount,customer_rating
+1,felix wafula,0752573081,Karen,Mercy Wanjiru,0781-747-623,KDA950K,HONDA,FIT,Westlands,Kasarani,02/02/25,17:39,27.1,M-Pesa,completed,"KES 1,320",3
+2,Felix Wafula,0752573081,,David Kiprotich,0749589840,KDB560L,Toyota,Vitz,Ngong Road,,2025-05-09,07:40,22.8,Card,Complete,1126,3
+3,James Wafula,0736895771,Buruburu,diana kamau,0731284168,KDD156F,Nissan,Advan,Parklands,,2025-04-22,16:43,22.1,CARD,COMPLETED,1095,4
+4,Ivy Wanjiru,,Runda,Brian Mutua,0774860677,KDB560L,toyota,Vitz,Westlands,Runda,08/01/2025,22:31,8.3,card,Completed,474,5
+5,Samuel Omondi,0720-576-936,Langata,MERCY WANJIRU,0781747623,KDD693I,Toyota,PREMIO,Buruburu,Kilimani,19/05/2025,11:09,5.1,M-Pesa,COMPLETED,KES 330,3
+6,Ivy Njoroge,0752847276,Buruburu,Moses Kariuki,0781400181,kdc384m,SUBARU,Impreza,South B,Runda,2025-01-28,14:16,34.1,Cash,completed,"KES 1,635",4
+7,Winnie Wafula,0781470948,Lavinngton,Amina Omondi,,kda950k,Honda,Fit,South B,Karen,11/05/2025,16:45,9.7,M-PESA,Completed,537,3
+8,Mercy Wekesa,0797593711,Westllands,BRIAN KAMAU,0777194079,KDD693I,Toyota,Premio,Westlands,CBD,06-25-2025,15:12,26,Cash,Completed,1270,5
+9,Mercy Barasa,+254766847125,Buruburu,Mercy Wanjiru,0781747623,kda950k,Honda,Fit,Lavington,WESTLANDS,2025-03-01,06:26,22.8,Card,Complete,1126,4
+10,Ivy Wanjiru,0716748321,Runda,DIANA KAMAU,+254731284168,kdc384m,SUBARU,Impreza,South C,buruburu,2025-06-27,11:41,30.5,Card,COMPLETED,1473,5
+11,mercy wekesa,,WESTLANDS,DAVID KIPROTICH,0749-589-840,KDD156F,Nissan,Advan,Karen,Kasarani,03-22-2025,07:39,20.8,Card,completed,1036,4
+12,SAMUEL OMONDI,0720576936,LANGATA,Moses Kariuki,0781400181,KDB560L,toyota,Vitz,Parklands,Runda,2025-03-02,06:47,15,Card,Completed,775,3
+13,Faith Kariuki,+254793595589,CBBD,  Hassan Wafula  ,0716564365,KDA542H,Mazda,Axela,Langata,South C,2025-06-15,22:29,-32.5,CASH,Completed,1563,4
+14,Samuel Omondi,,Langata,HASSAN WAFULA,+254716564365,KDA542H,Mazda,Axela,RUNDA,Embakasi,10/05/2025,18:49,26.6,M-Pesa,completed,"KES 1,297",4
+15,Faith Kariuki,0793595589,CBD,  Victor Odhiambo  ,0746693891,kdb833g,Toyota,Fielder,buruburu,,21/03/2025,19:09,18.6,Cash,COMPLETED,937,4
+16,CYNTHIA CHEBET,0740139268,LANGATA,Diana Kamau,0731284168, KDA950K ,Honda,Fit,Kilimani,CBD,12/04/2025,17:51,21.8,m-pesa,Completed,1081,5
+17,Samuel Cheruiyot,0744365845,Parklands,david kiprotich,0749-589-840,KDC384M,Subaru,Impreza,Embakasi,Kilimani,03-23-2025,09:58,6.4,M-PESA,Completed,388,4
+18,Felix Achieng,0754759100,South B,  Hassan Wafula  ,0716564365,KDB833G,Toyota,Fielder,Embakasi,Karen,05-27-2025,17:18,2.5,Cash,COMPLETED,KES 213,3
+19,Faith Mwangi,0717-791-214,South B,Brian Kamau,0777194079, KDA950K ,Honda,Fit,Lavington,,2025-05-27,17:19,23.6,Cash,Completed,1162,4
+20,Felix Achieng,0754759100,South B,Victor Odhiambo,0746693891,KDA496F,Toyota,Axio,Kilimani,,2025-02-03,14:57,25.3,CASH,completed,1239,5
+21,Felix Wekesa,0735584587,PARKLANDS,Elias Cheruiyot,0779736929,kda950k,HONDA,Fit,south c,Parklands,2025-01-07,19:24,6.3,CASH,Completed,384,4
+22,Faith Kariuki,0793595589,CBD,Brian Mutua,0774860677,KDC384M,Subaru,IMPREZA,Kasarani,Embakasi,02-06-2025,22:50,29.2,M-Pesa,Completed,1414,4
+23,joy nyambura,0733240353,,Brian Otieno,0744810301,KDE501G,TOYOTA,Wish,south b,kilimani,28/05/25,19:28,16.7,M-PESA,Completed,KES 852,3
+24,Grace Odhiambo,0759785686,Langata,Diana Barasa,0713263844,KDA950K,HONDA,Fit,Langata,South C,2025-02-18,22:42,35,CARD,Completed,1675,3
+25,MERCY BARASA,+254766847125,buruburu,AMINA OMONDI,,KDA542H,mazda,Axela,Westlands,Runda,10/05/2025,08:04,15.1,M-PESA,Completed,780,3
+26,Samuel Mwangi,0765-635-406,Buruburu,  Brian Otieno  ,0744810301,kda542h,Mazda,Axela,Embakasi,Ngong Road,10/05/2025,22:57,12.2,Card,Completed,649,3
+27,joy nyambura,0733240353,Ngong Road,VICTOR ODHIAMBO,0746693891, KDA542H ,mazda,AXELA,Westlands,cbd,05-01-2025,13:50,8.9,mpesa,COMPLETED,KES 501,4
+28,Victor Wekesa,0766929084,,Diana Kamau,+254731284168,kde501g,Toyota,WISH,Westlands,Kasarani,2025-03-25,21:57,13.1,card,Completed,690,3
+29,David Achieng,0728832187,Runnda,Hassan Wafula,+254716564365,KDC384M,Subaru,Impreza,Kilimani,Kasarani,2025-05-12,07:33,24,M-Pesa,Completed,1180,3
+30,Cynthia Chebet,0740139268,Langata,Diana Kamau,0731-284-168,KDD156F,Nissan,ADVAN,RUNDA,SOUTH B,19/06/25,13:05,30,Card,completed,1450,4
+31,VICTOR WEKESA,0766929084,Westlands,BRIAN KAMAU,0777194079,KDC598H,Nissan,NOTE,Ngong Road,Kilimani,02-23-2025,06:04,19.6,mpesa,completed,982,4
+32,James Wafula,0736895771,BURUBURU,david kiprotich,+254749589840,kdd693i,Toyota,Premio,CBD,Langata,04-17-2025,10:18,17.2,card,completed,KES 874,4
+33,DAVID ACHIENG,0728832187,Runda,Moses Omondi,0753618087, KDE501G ,toyota,Wish,Buruburu,South C,2025-06-09,18:37,20.9,Cash,Completed,1041,4
+34,Brian Otieno,0797729125,SOUTH B,Elias Cheruiyot,0779736929,KDE501G,Toyota,Wish,South B,SOUTH B,08/05/2025,16:56,,Card,Completed,924,3
+35,Felix Wafula,0752573081,Karen,Amina Omondi,0734239702,KDE169J,mazda,demio,Ngong Road,Runda,04-03-2025,09:11,24.3,CARD,completed,1194,4
+36,Brian Otieno,+254797729125,South B,hassan wafula,0716-564-365,kde169j,Mazda,DEMIO,CBD,LAVINGTON,04-21-2025,12:26,24,M-PESA,COMPLETED,"KES 1,180",4
+37,FAITH MWANGI,,SOUTH B,Diana Kamau,0731284168,KDC384M,Subaru,Impreza,Ngong Road,Kilimani,03/03/2025,19:45,33.1,M-Pesa,completed,"KES 1,590",
+38,Ivy Wanjiru,0716748321,,DIANA BARASA,+254713263844,KDA542H,Mazda,Axela,Ngong Road,LANGATA,2025-03-17,11:07,18.1,m-pesa,completed,915,4
+39,Victor Wafula,0777979240,South C,  Brian Kamau  ,0777194079,KDA496F,Toyota,AXIO,Buruburu,Westlands,01/03/2025,16:39,33.2,M-Pesa,Completed,1594,4
+40,Felix Wekesa,0735584587,Parklands,  Amina Omondi  ,0734239702,KDA496F,Toyota,Axio,South B,Langgata,2025-01-28,18:39,,Cash,COMPLETED,1266,5
+41,Cynthia Mwangi,+254725121694,Langata,Amina Omondi,0734239702,KDC384M,Subaru,IMPREZA,Parklands,Langata,2025-01-27,20:26,32.1,Cash,Completed,1545,3
+42,Samuel Mwangi,0765635406,BURUBURU,HASSAN WAFULA,0716564365,kdb560l,Toyota,Vitz,Kilimani,South B,15/03/25,21:32,6.9,Cash,Completed,411,4
+43,Faith Kariuki,0793595589,CBD,AMINA OMONDI,0734-239-702,KDC384M,Subaru,Impreza,Karen,Langata,2025-03-22,21:33,-17.5,Card,COMPLETED,888,3
+44,Kevin Mutua,0759899226,CBD,Hassan Wafula,0716564365,KDD693I,toyota,PREMIO,cbd,Lavington,2025-03-18,06:33,17.6,M-Pesa,completed,KES 892,4
+45,Felix Wafula,0752-573-081,Karen,Diana Kamau,0731284168,kdb833g,Toyota,Fielder,Runda,Kilimani,17/02/2025,18:22,10.2,M-Pesa,Completed,559,4
+46,Brian Wanjiru,0784844636,KASARANI,Victor Odhiambo,0746-693-891,KDA950K,HONDA,fit,Buruburu,Embakasi,2025-04-06,15:15,28.3,cash,COMPLETED,1374,3
+47,Felix Wekesa,0735584587,,Victor Odhiambo,0746693891,KDA542H,Mazda,Axela,CBD,Westllands,03/05/2025,12:48,26.4,M-Pesa,Complete,1288,
+48,Faith Mwangi,0717791214,South B,Hassan Wafula,0716-564-365, KDB833G ,TOYOTA,Fielder,Runda,Karen,06-09-2025,16:24,28.4,Card,Completed,1378,5
+49,felix wekesa,0735-584-587,Parklands,David Kiprotich,0749589840, KDD693I ,Toyota,Premio,EMBAKASI,Karen,02/04/2025,15:45,32.2,m-pesa,Completed,1549,4
+50,Faith Mwangi,0717791214,South B,Mercy Wanjiru,0781747623,kdd693i,Toyota,premio,South C,kasarani,2025-05-15,14:12,8.7,Cash,COMPLETED,491,5
+51,Mercy Nyambura,0795540297,,Brian Mutua,,KDB833G,Toyota,Fielder,Embakasi,LANGATA,28/04/25,14:45,21.1,M-PESA,completed,"KES 1,050",5
+52,Brian Otieno,0797729125,South B,victor odhiambo,0746-693-891,KDC384M,Subaru,Impreza,Buruburu,CBD,02-28-2025,08:05,33.9,cash,Completed,1626,
+53,james wafula,0736895771,Buruburu,Hassan Wafula,0716564365,KDB560L,Toyota,VITZ,Runda,Ngong Road,15/03/2025,17:24,26.3,M-Pesa,Completed,1284,5
+54,Mercy Nyambura,0795540297,Embakasi,Brian Kamau,0777194079,KDE501G,TOYOTA,Wish,,CBD,2025-06-08,12:38,4.1,Cash,Completed,KES 285,4
+55,  Mercy Barasa  ,+254766847125,Buruburu,Brian Mutua,0774860677,KDA542H,Mazda,Axela,kilimani,Parklands,2025-01-15,11:10,3.1,Cash,COMPLETED,KES 240,5
+56,JOY NYAMBURA,+254733240353,Ngong Road,Dennis Chebet,0739185296,KDC598H,Nissan,Note,Kilimani,Runda,2025-02-17,10:51,8.1,Cash,COMPLETED,KES 465,3
+57,Felix Wekesa,,Parklands,Victor Odhiambo,0746693891,KDD156F,Nissan,Advan,Karen,CBBD,18/02/2025,06:17,4.5,CARD,completed,303,4
+58,VICTOR KARIUKI,0739420701,KILIMANI,Amina Omondi,0734239702,KDC598H,Nissan,Note,karen,KASARANI,2025-04-10,18:26,20.2,mpesa,completed,1009,
+59,Felix Wekesa,0735584587,Parkllands,Moses Omondi,0753618087,KDD156F,Nissan,ADVAN,embakasi,SOUTH C,04-01-2025,22:19,26.8,M-Pesa,Completed,1306,3
+60,  Faith Mwangi  ,0717791214,South B,Hassan Wafula,0716564365,kda542h,Mazda,Axela,Lavington,Lavinngton,06-06-2025,15:50,22.2,cash,Complete,1099,4
+61,Diana Chebet,0763344725,Kasarani,Brian Mutua,+254774860677,KDA950K,Honda,fit,south c,Runda,04-04-2025,18:35,28.3,m-pesa,Completed,1374,0
+62,felix achieng,0754759100,,HASSAN WAFULA,0716564365,KDD156F,Nissan,Advan,Runda,Parklands,2025-01-06,11:40,9.4,CASH,Completed,523,4
+63,Mercy Barasa,0766847125,Buruburu,Moses Kariuki,0781-400-181,kdc598h,Nissan,Note,Kilimani,Ngong  Road,2025-01-01,08:34,20.2,cash,Complete,1009,3
+64,  Cynthia Chebet  ,0740139268,Langata,David Kiprotich,0749589840,KDC598H,Nissan,Note,South B,Langata,05-10-2025,11:52,2.3,Card,COMPLETED,204,0
+65,Mercy Nyambura,0795540297,Embakasi,Diana Kamau,0731284168, KDE169J ,Mazda,Demio,PARKLANDS,EMBAKASI,06/05/2025,12:37,21.7,M-Pesa,Completed,1077,3
+66,Brian Otieno,0797-729-125,South B,Brian Otieno,0744810301,kda950k,Honda,fit,Kilimani,CBD,2025-01-23,15:07,10.7,Card,Completed,582,3
+67,JAMES WAFULA,,Buruburu,Victor Odhiambo,+254746693891, KDB833G ,Toyota,Fielder,Kasarani,Runda,13/01/2025,06:09,27.4,Cash,COMPLETED,1333,4
+68,david achieng,0728832187,Runda,BRIAN OTIENO,0744810301,KDD156F,Nissan,advan,Karen,Runda,21/03/2025,17:29,16.3,CASH,Completed,834,3
+69,IVY NJOROGE,+254752847276,Buruburu,Brian Mutua,,KDB833G,Toyota,Fielder,Ngong Road,Buruburu,21/04/25,09:43,23.9,M-Pesa,completed,"KES 1,176",3
+70,WINNIE WAFULA,0781470948,Lavington,  David Kiprotich  ,0749-589-840,KDC384M,Subaru,impreza,South B,CBD,13/04/2025,16:32,3.8,m-pesa,COMPLETED,KES 271,0
+71,Brian Otieno,0797729125,South B,Elias Cheruiyot,0779736929,KDC598H,Nissan,note,Lavington,Langata,21/05/2025,08:55,10.8,mpesa,Completed,586,4
+72,Samuel Mwangi,0765635406,Buruburu,Diana Barasa,0713263844,KDD693I,Toyota,Premio,Kilimani,Ngong  Road,04/05/2025,14:22,33,M-Pesa,Complete,1585,3
+73,Faith Kariuki,0793595589,CBD,Hassan Wafula,0716564365,kdc598h,Nissan,Note,Runda,Lavington,06-05-2025,12:55,9.5,CARD,Completed,528,3
+74,Diana Chebet,0763344725,kasarani,Dennis Chebet,0739185296,kdc598h,Nissan,Note,Embakasi,,2025-04-09,14:05,34.4,Cash,Completed,1648,
+75,samuel omondi,+254720576936,Langata,Mercy Wanjiru,0781747623,KDB560L,TOYOTA,Vitz,Kilimani,runda,2025-05-12,17:27,34.5,Card,COMPLETED,1653,4
+76,KEVIN MUTUA,0759899226,CBD,David Kiprotich,0749589840, KDE501G ,TOYOTA,Wish,Parklands,,2025-04-20,22:21,12.1,Card,COMPLETED,645,3
+77,victor kariuki,0739420701,kilimani,Moses Kariuki,+254781400181,KDA496F,Toyota,Axio,Runnda,Soutth C,2025-01-20,11:06,21.3,M-PESA,COMPLETED,"KES 1,059",3
+78,James Wafula,0736895771,Buruburu,Dennis Chebet,0739-185-296,kdb560l,Toyota,Vitz,Runnda,Westlands,2025-02-26,20:55,4.4,Card,completed,298,5
+79,Mercy Barasa,0766847125,BURUBURU,Moses Kariuki,0781400181, KDC598H ,nissan,note,Embakasi,Lavington,02-07-2025,14:31,15.4,CASH,completed,KES 793,4
+80,felix wekesa,+254735584587,PARKLANDS,Brian Otieno,0744810301, KDD156F ,nissan,ADVAN,SOUTH B,WESTLANDS,2025-06-05,16:20,2.6,Card,completed,217,5
+81,felix achieng,0754759100,South B,victor odhiambo,0746693891, KDB833G ,Toyota,Fielder,Buruburu,Ngong Road,2025-01-10,18:09,31,M-Pesa,COMPLETED,1495,6
+82,samuel mwangi,+254765635406,Buruburu,Diana Kamau,0731-284-168,KDA950K,honda,Fit,Karen,Westlands,10/04/2025,15:59,31.4,Cash,Completed,1513,5
+83,Hassan Wafula,0736980151,,Diana Kamau,0731284168,kde501g,TOYOTA,Wish,Kilimani,karen,02-10-2025,18:07,1.5,CASH,Completed,KES 168,5
+84,joy nyambura,,Ngong Road,Moses Omondi,+254753618087,KDA496F,toyota,Axio,Buruburu,Karen,01-05-2025,12:02,22.2,Card,Completed,1099,4
+85,Hassan Wafula,0736-980-151,LANGATA,brian kamau,0777194079,KDB560L,Toyota,Vitz,Parklands,Embakasi,2025-04-06,15:58,18.2,M-Pesa,Completed,919,0
+86,James Wafula,0736895771,buruburu,Mercy Wanjiru,0781747623,KDA496F,Toyota,AXIO,embakasi,Westlands,2025-03-21,16:11,16.3,card,Completed,834,3
+87,Samuel Omondi,0720576936,Langata,diana kamau,0731284168,KDD156F,nissan,advan,South B,Embakkasi,2025-04-17,17:31,10.7,Cash,Completed,582,4
+88,Brian Otieno,+254797729125,South B,Diana Kamau,0731284168,kdb833g,TOYOTA,Fielder,Parklands,South B,2025-03-16,16:15,-25.7,Cash,COMPLETED,1257,
+89,Felix Wekesa,+254735584587,Parklands,Mercy Wanjiru,0781747623,KDC598H,NISSAN,Note,CBD,south c,2025-01-02,16:58,11.4,M-Pesa,COMPLETED,613,6
+90,  Mercy Wekesa  ,+254797593711,Westlands,MOSES OMONDI,0753618087,KDB833G,Toyota,Fielder,Runda,Parklands,25/06/2025,08:28,23.3,cash,Completed,1149,0
+91,DIANA WAFULA,,Westlands,Amina Omondi,0734239702,KDA950K,honda,Fit,Runda,Ngong Road,02-17-2025,22:16,15.7,CARD,Completed,807,3
+92,Winnie Wafula,0781470948,Lavington,Hassan Wafula,0716564365,KDD693I,Toyota,Premio,Parklands,Karen,04-04-2025,14:47,28.6,Cash,Completed,"KES 1,387",5
+93,Ivy Wanjiru,0716748321,Runda,Moses Omondi,0753618087,kde169j,Mazda,Demio,Lavington,Kilimani,2025-05-05,19:04,30.6,Card,Completed,1477,5
+94,  Samuel Mwangi  ,+254765635406,Buruburu,mercy wanjiru,0781747623,kdd693i,Toyota,Premio,CBD,Kasarani,2025-02-10,08:29,19.5,Cash,Completed,978,4
+95,Ivy Njoroge,0752-847-276,BURUBURU,Brian Otieno,0744810301,KDD156F,Nissan,ADVAN,South C,CBD,2025-05-12,10:33,34,CASH,Completed,1630,3
+96,HASSAN WAFULA,0736980151,langata,diana barasa,0713263844,KDB560L,Toyota,Vitz,South B,RUNDA,2025-03-23,16:54,11.4,Cash,Completed,613,0
+97,IVY NJOROGE,0752-847-276,Buruburu,Elias Cheruiyot,+254779736929,KDC598H,Nissan,Note,Kasarani,Parkllands,2025-03-10,10:20,11.8,Card,Completed,KES 631,6
+98,Faith Mwangi,0717-791-214,South B,Hassan Wafula,,KDA542H,Mazda,Axela,Buruburu,Ngong Road,2025-04-20,21:52,2.2,M-Pesa,COMPLETED,199,
+99,Hassan Wafula,0736980151,Langata,DENNIS CHEBET,0739185296,KDA542H,Mazda,AXELA,Westlands,South C,04/04/2025,09:24,23.9,m-pesa,Completed,"KES 1,176",4
+100,  Brian Otieno  ,0797729125,South B,Mercy Wanjiru,+254781747623,KDE169J,MAZDA,Demio,Runda,langata,02/06/2025,20:20,13.6,M-Pesa,Completed,KES 712,3
+101,winnie wafula,,lavington,Victor Odhiambo,0746693891,KDB560L,Toyota,Vitz,Karen,Westlands,2025-06-02,17:41,19,M-Pesa,Completed,955,3
+102,Winnie Wafula,0781470948,Lavington,Brian Mutua,0774860677,KDA496F,Toyota,axio,Parklands,Karen,2025-04-15,17:23,14.3,CASH,Completed,744,3
+103,felix achieng,0754-759-100,south b,David Kiprotich,0749589840,KDC384M,Subaru,impreza,Karen,CBD,02-02-2025,07:04,11.8,Cash,completed,631,5
+104,Cynthia Mwangi,0725-121-694,,Brian Otieno,0744810301,KDB560L,toyota,VITZ,Kilimani,Westlands,26/05/25,07:37,2.7,Card,completed,222,4
+105,  David Achieng  ,,Runda,  Moses Kariuki  ,0781400181,KDE501G,Toyota,Wish,Ngong  Road,Ngong Road,2025-06-08,17:07,7.8,CASH,Completed,451,3
+106,Diana Wafula,0738313151,Westlands,mercy wanjiru,+254781747623,KDE169J,mazda,DEMIO,Kilimani,Ngong  Road,2025-01-07,08:15,13.4,Cash,COMPLETED,KES 703,3
+107,Felix Wafula,,Karen,amina omondi,,kdc384m,SUBARU,Impreza,South B,Westlands,2025-05-17,09:45,16.8,CASH,Completed,856,4
+108,felix achieng,0754759100,South B,ELIAS CHERUIYOT,0779736929,KDC598H,Nissan,note,Buruburu,South C,01-28-2025,16:23,4.7,CARD,COMPLETED,312,6
+109,FAITH MWANGI,0717791214,South B,ELIAS CHERUIYOT,,KDA542H,Mazda,Axela,CBBD,Kilimani,03/03/2025,22:53,18,M-Pesa,Completed,910,5
+110,Samuel Cheruiyot,0744365845,Parklands,Diana Kamau,+254731284168,KDA496F,TOYOTA,Axio,Langata,KASARANI,2025-05-13,22:40,30.8,Card,Completed,1486,3
+111,WINNIE WAFULA,,Lavington,Hassan Wafula,0716-564-365,KDB560L,Toyota,Vitz,Embakasi,Westlands,06-11-2025,12:03,24.9,mpesa,COMPLETED,1221,4
+112,James Wafula,+254736895771,,Dennis Chebet,0739185296,KDC598H,Nissan,Note,Westlands,Embakasi,2025-02-05,16:54,5,Cash,completed,KES 325,5
+113,Brian Otieno,0797729125,South B,Elias Cheruiyot,0779736929,KDB833G,Toyota,FIELDER,Karen,Soutth C,04-21-2025,20:45,23,M-Pesa,COMPLETED,1135,
+114,  Felix Wekesa  ,0735584587,Parklands,Victor Odhiambo,0746693891,KDD693I,Toyota,Premio,Kasarani,Westlands,2025-04-19,15:19,5.9,Cash,Completed,366,4
+115,Mercy Barasa,0766847125,Buruburu,  Dennis Chebet  ,0739185296,KDE169J,mazda,DEMIO,Langata,,2025-04-01,06:14,4.6,M-PESA,COMPLETED,307,0
+116,Diana Chebet,0763-344-725,Kasarani,Diana Barasa,0713263844,KDE169J,MAZDA,DEMIO,South C,buruburu,07/02/2025,16:03,19.4,Card,Completed,KES 973,3
+117,Joy Nyambura,+254733240353,Ngong Road,Brian Otieno,+254744810301,kda950k,Honda,Fit,Karen,Parklands,14/02/2025,07:00,4.7,Cash,COMPLETED,312,4
+118,Mercy Barasa,0766847125,Buruburu,DAVID KIPROTICH,,KDA542H,Mazda,Axela,Parkllands,Kasarani,2025-06-21,10:01,30.5,CASH,Completed,"KES 1,473",0
+119,James Wafula,0736895771,Burubburu,DENNIS CHEBET,+254739185296,KDD156F,Nissan,Advan,Runda,KILIMANI,12/01/2025,18:16,6.3,Cash,completed,384,0
+120,  Samuel Cheruiyot  ,0744365845,Parklands,Mercy Wanjiru,0781747623,KDE501G,Toyota,Wish,Westlands,Ngong Road,04/06/2025,22:08,6.5,cash,COMPLETED,KES 393,4
+121,Mercy Barasa,0766847125,Buruburu,Moses Kariuki,0781-400-181,KDA542H,mazda,Axela,buruburu,Embakasi,21/03/2025,07:06,,cash,COMPLETED,298,4
+122,BRIAN WANJIRU,0784844636,Kasarrani,Moses Kariuki,0781-400-181,kda542h,MAZDA,AXELA,Parklands,Embakasi,2025-02-11,13:54,9.6,M-Pesa,COMPLETED,532,5
+123,IVY NJOROGE,0752847276,Buruburu,Moses Omondi,0753618087,KDD693I,Toyota,premio,Embakasi,,04/03/2025,07:03,7.1,cash,COMPLETED,420,3
+124,grace odhiambo,0759785686,Langata,elias cheruiyot,0779-736-929,KDC598H,Nissan,NOTE,Karen,Kilimani,2025-01-10,18:25,20.5,M-Pesa,Completed,"KES 1,023",6
+125,Felix Achieng,0754759100,Soutth B,DIANA BARASA,0713263844,KDA542H,mazda,Axela,Kilimani,Lavington,2025-03-06,07:43,21.6,cash,Completed,"KES 1,072",6
+126,  Felix Wafula  ,0752573081,Karen,Moses Kariuki,0781-400-181,kdb833g,Toyota,Fielder,Kasarani,Runda,2025-03-13,20:56,10.9,CASH,Completed,591,5
+127,Felix Wafula,,Karen,Brian Kamau,0777194079,KDE501G,TOYOTA,WISH,CBD,Langata,2025-01-22,11:55,22,CASH,Completed,1090,5
+128,Winnie Wafula,0781470948,Lavington,Diana Kamau,0731284168,KDA496F,Toyota,Axio,Ngong Road,CBD,04-28-2025,15:46,8.2,M-Pesa,completed,469,4
+129,VICTOR WEKESA,0766929084,Westlands,BRIAN KAMAU,0777194079,KDB560L,TOYOTA,Vitz,Parklands,Kilimani,2025-02-27,08:51,,card,completed,379,5
+130,Samuel Mwangi,0765635406,Buruburu,david kiprotich,0749-589-840,KDC598H,Nissan,Note,Buruburu,Kasarani,03-06-2025,16:29,20.5,cash,Completed,1023,4
+131,faith kariuki,0793-595-589,CBD,David Kiprotich,0749-589-840,KDC598H,nissan,Note,Parklands,South B,2025-04-01,12:57,19.5,CARD,Completed,978,6
+132,Samuel Cheruiyot,0744365845,parklands,BRIAN OTIENO,0744810301, KDA542H ,Mazda,Axela,Kasarani,Langata,02-15-2025,11:53,-29.1,CARD,Completed,1410,3
+133,SAMUEL OMONDI,0720576936,Langata,brian otieno,0744810301,KDD156F,Nissan,Advan,Ngong  Road,Kilimani,03/05/2025,16:14,3.1,Card,Completed,240,6
+134,Victor Wekesa,0766929084,Westlands,Moses Omondi,0753618087,KDC384M,Subaru,Impreza,karen,lavington,2025-03-10,12:50,22.5,CARD,Completed,1113,
+135,Winnie Wafula,+254781470948,,Brian Otieno,0744810301,kdc384m,subaru,IMPREZA,Ngong Road,Langata,07/01/2025,13:10,29.2,Card,COMPLETED,1414,4
+136,James Wafula,+254736895771,Buruburu,  Brian Mutua  ,0774860677,KDC384M,Subaru,IMPREZA,Lavington,,2025-06-12,13:48,26.8,M-Pesa,COMPLETED,1306,5
+137,Felix Wekesa,0735584587,Parklands,Elias Cheruiyot,0779736929,KDA496F,Toyota,Axio,Kasarani,parklands,04-14-2025,12:41,12,mpesa,COMPLETED,KES 640,3
+138,Brian Otieno,+254797729125,south b,David Kiprotich,0749589840,KDA542H,Mazda,axela,Buruburu,,2025-04-22,22:14,21.9,Cash,Completed,1086,4
+139,SAMUEL CHERUIYOT,0744365845,Parklands,Elias Cheruiyot,0779736929,KDB833G,Toyota,Fielder,Runda,Kasarani,2025-04-17,19:10,22,Cash,Completed,"KES 1,090",5
+140,Faith Mwangi,,South B,David Kiprotich,+254749589840,KDA950K,Honda,Fit,Kilimani,Ngong Road,2025-03-07,11:50,9.3,Cash,Completed,519,5
+141,Victor Wafula,0777979240,South C,brian kamau,0777194079,KDD693I,Toyota,Premio,SOUTH C,buruburu,2025-04-04,16:12,4.9,M-Pesa,COMPLETED,321,4
+142,Mercy Wekesa,0797593711,Westlands,VICTOR ODHIAMBO,0746693891, KDA496F ,Toyota,Axio,Lavinngton,Embakasi,2025-03-26,11:32,5.2,M-Pesa,Completed,KES 334,3
+143,mercy barasa,,Buruburu,Diana Kamau,0731284168,KDA542H,Mazda,Axela,South B,Embakasi,20/04/25,22:30,32.3,Card,Completed,"KES 1,553",0
+144,Joy Nyambura,0733240353,Ngong Road,Hassan Wafula,+254716564365,kdc384m,Subaru,Impreza,RUNDA,South C,02-17-2025,10:25,17.6,m-pesa,completed,892,5
+145,VICTOR WAFULA,+254777979240,Soutth C,Diana Barasa,0713-263-844,KDE169J,Mazda,Demio,South C,Runda,03/03/2025,15:49,2.6,Card,COMPLETED,KES 217,6
+146,Felix Wafula,0752573081,Karen,Moses Kariuki,0781400181,kdc598h,Nissan,Note,Kilimani,Buruburu,2025-06-24,09:46,30.3,Card,Completed,1464,3
+147,Kevin Mutua,+254759899226,CBD,AMINA OMONDI,,kdc384m,Subaru,impreza,South C,Buruburu,2025-06-03,09:47,24,Cash,COMPLETED,1180,4
+148,James Wafula,0736895771,Buruburu,MOSES OMONDI,0753618087,KDA496F,Toyota,Axio,Buruburu,Langata,23/03/25,06:44,4.7,Card,Completed,312,
+149,Samuel Cheruiyot,0744365845,Parklands,VICTOR ODHIAMBO,0746693891,KDC384M,Subaru,IMPREZA,KILIMANI,Ngong Road,2025-01-04,14:05,14.7,M-Pesa,Completed,762,5
+150,Winnie Wafula,+254781470948,Lavington,Moses Kariuki,,KDA542H,Mazda,AXELA,South C,,2025-02-18,22:07,8,cash,COMPLETED,460,3
+151,Grace Odhiambo,0759785686,Langata,Elias Cheruiyot,0779736929, KDA496F ,Toyota,AXIO,South C,South C,24/01/2025,12:21,3.5,M-PESA,Completed,KES 258,5
+152,VICTOR WAFULA,+254777979240,South C,dennis chebet,0739185296,KDB560L,TOYOTA,vitz,Kilimani,WESTLANDS,2025-06-27,14:55,33.2,M-Pesa,Completed,"KES 1,594",5
+153,brian wanjiru,0784844636,Kasarani,Moses Kariuki,,KDA496F,Toyota,Axio,Ngong Road,Embakasi,26/01/2025,14:14,16.3,M-PESA,COMPLETED,834,0
+154,David Achieng,0728-832-187,Runda,Brian Otieno,0744-810-301,KDC384M,Subaru,Impreza,Embakasi,Langata,10/05/2025,11:16,3.1,M-PESA,Completed,KES 240,5
+155,Samuel Omondi,0720576936,Langata,Moses Kariuki,0781400181,KDC384M,Subaru,Impreza,Lavinngton,Ngong Road,03/02/2025,08:05,26.7,Card,Completed,1302,0
+156,  Mercy Nyambura  ,0795540297,Embakasi,Brian Mutua,0774-860-677,kde169j,Mazda,DEMIO,Embakasi,South C,02/02/2025,10:30,16.7,mpesa,Completed,852,3
+157,CYNTHIA MWANGI,,,BRIAN MUTUA,0774860677,KDB560L,Toyota,vitz,ngong road,Lavington,2025-03-11,20:08,8.8,cash,completed,KES 496,4
+158,Victor Wekesa,,WESTLANDS,Moses Kariuki,0781-400-181,KDE501G,Toyota,Wish,Lavington,Embakasi,10/01/2025,18:18,11.3,M-Pesa,Completed,609,3
+159,Kevin Mutua,0759899226,cbd,Elias Cheruiyot,0779-736-929,KDB833G,toyota,Fielder,South B,South C,2025-06-27,14:57,14.2,CASH,COMPLETED,739,3
+160,Victor Wafula,0777979240,South C,Brian Otieno,0744810301, KDD693I ,Toyota,Premio,Runda,KASARANI,06-09-2025,17:28,15.9,Cash,completed,816,3
+161,Samuel Mwangi,,Buruburu,Moses Omondi,+254753618087,KDA950K,Honda,FIT,embakasi,parklands,2025-04-05,07:07,12,Cash,COMPLETED,640,5
+162,winnie wafula,0781-470-948,Lavington,Moses Kariuki,0781400181,kda496f,Toyota,Axio,Kasarani,Langata,04-16-2025,12:04,14.9,Cash,Completed,771,3
+163,DIANA CHEBET,0763344725,Kasarani,Moses Kariuki,0781400181,kdc598h,Nissan,Note,EMBAKASI,Kasarani,01-24-2025,19:14,14.9,mpesa,Completed,771,3
+164,  Felix Wekesa  ,0735584587,Parklands,BRIAN OTIENO,0744810301,KDE169J,MAZDA,Demio,Embakasi,Buruburu,03-18-2025,13:23,1.9,card,Completed,186,4
+165,VICTOR WEKESA,+254766929084,Westlands,Brian Otieno,0744810301,KDA542H,mazda,Axela,Ngong Road,CBD,2025-05-27,07:26,25.8,CARD,Completed,1261,3
+166,Cynthia Chebet,0740-139-268,Langata,Moses Kariuki,+254781400181,KDB560L,Toyota,Vitz,,parklands,2025-03-23,18:44,20.2,M-PESA,COMPLETED,1009,5
+167,Brian Otieno,0797729125,South B,Amina Omondi,0734239702,KDA542H,MAZDA,Axela,parklands,south c,14/01/2025,09:50,2.9,cash,Completed,KES 231,5
+168,FELIX WAFULA,0752573081,Karen,Moses Kariuki,0781400181,kda496f,TOYOTA,axio,Westlands,karen,05-02-2025,16:59,21.8,Cash,Complete,1081,3
+169,Brian Wanjiru,0784844636,Kasarani,Moses Omondi,,KDB833G,Toyota,Fielder,Kasarani,Westlands,2025-02-20,18:20,16.5,M-Pesa,COMPLETED,843,5
+170,JAMES WAFULA,0736895771,Buruburu,Brian Kamau,,KDB833G,toyota,Fielder,South C,South B,2025-04-19,15:46,15.8,Cash,Completed,811,4
+171,  Mercy Nyambura  ,0795540297,Embakasi,Moses Kariuki,0781400181,KDA496F,Toyota,Axio,,,2025-02-11,14:38,24.1,Cash,COMPLETED,1185,3
+172,Mercy Wekesa,+254797593711,Westlands,diana barasa,, KDA950K ,HONDA,Fit,PARKLANDS,kilimani,22/03/2025,18:54,10.6,Card,completed,577,5
+173,  Mercy Barasa  ,0766847125,Buruburu,  David Kiprotich  ,0749589840,kdc598h,Nissan,Note,Kilimani,Lavington,24/04/25,15:31,26.4,Cash,Completed,1288,3
+174,Cynthia Mwangi,0725-121-694,Langata,  Dennis Chebet  ,0739185296,kdc384m,Subaru,impreza,Ngong Road,Kasarani,01/03/25,16:07,2.4,Cash,Completed,208,3
+175,Brian Otieno,0797-729-125,South B,Hassan Wafula,0716564365,kdb560l,Toyota,VITZ,South C,PARKLANDS,06/04/25,16:26,,M-Pesa,COMPLETED,1410,3
+176,Samuel Cheruiyot,+254744365845,PARKLANDS,  Brian Kamau  ,0777194079,KDB560L,Toyota,Vitz,Embakasi,Langata,15/03/2025,15:13,-15.8,CASH,Completed,KES 811,3
+177,Winnie Wafula,0781470948,lavington,Diana Kamau,0731284168,KDB833G,Toyota,Fielder,LANGATA,Runda,03-16-2025,16:21,5.3,Cash,COMPLETED,339,3
+178,Felix Wekesa,0735584587,Parklands,Mercy Wanjiru,0781747623,KDB560L,TOYOTA,Vitz,Embakasi,Lavington,12/06/2025,19:27,22.5,card,COMPLETED,1113,4
+179,BRIAN OTIENO,0797729125,South B,Hassan Wafula,0716564365,KDB833G,Toyota,Fielder,Westlands,LAVINGTON,11/02/25,09:25,24.8,M-Pesa,COMPLETED,"KES 1,216",4
+180,Brian Otieno,0797-729-125,Soutth B,moses kariuki,0781400181,KDC384M,Subaru,impreza,Buruburu,South C,2025-03-18,14:27,8.7,Cash,Completed,KES 491,3
+181,SAMUEL CHERUIYOT,0744365845,Parklands,DIANA KAMAU,0731284168,KDB560L,Toyota,VITZ,Parklands,Kasarani,2025-03-02,21:26,30.6,m-pesa,Completed,1477,5
+182,  Mercy Nyambura  ,0795540297,Embakasi,Diana Barasa,0713263844,KDD156F,Nissan,Advan,SOUTH B,Westlands,2025-06-27,13:41,9.4,Cash,completed,KES 523,5
+183,IVY NJOROGE,0752-847-276,Buruburu,Victor Odhiambo,+254746693891,KDA950K,HONDA,Fit,Parklands,Lavington,2025-01-23,09:46,28,Card,COMPLETED,1360,5
+184,felix achieng,0754759100,South B,Diana Barasa,+254713263844,KDA496F,Toyota,Axio,south b,Runda,2025-05-13,09:19,8.4,M-Pesa,completed,KES 478,4
+185,Victor Kariuki,0739420701,Kilimani,Victor Odhiambo,0746693891,KDA496F,Toyota,AXIO,Karen,Kasarani,2025-06-11,08:41,13.3,Cash,Completed,699,4
+186,faith mwangi,0717-791-214,SOUTH B,Mercy Wanjiru,0781747623,KDD693I,Toyota,Premio,Karen,,19/01/2025,15:05,31.6,Cash,Completed,1522,4
+187,James Wafula,+254736895771,BURUBURU,Elias Cheruiyot,+254779736929,KDC598H,Nissan,note,Parklands,CBD,02-25-2025,08:47,22.2,mpesa,Completed,1099,5
+188,SAMUEL MWANGI,+254765635406,Buruburu,Brian Mutua,0774860677, KDD156F ,Nissan,Advan,Lavington,Runda,05-07-2025,15:53,26.4,M-Pesa,completed,"KES 1,288",5
+189,Felix Wekesa,0735584587,Parklands,Diana Kamau,0731284168,KDA496F,Toyota,Axio,Buruburu,Lavington,2025-01-05,10:37,29.3,CARD,COMPLETED,"KES 1,419",4
+190,Faith Mwangi,0717-791-214,South B,moses kariuki,0781400181,KDC598H,Nissan,Note,RUNDA,langata,06-11-2025,17:17,14.4,M-Pesa,COMPLETED,748,5
+191,Felix Wafula,0752573081,Karen,Moses Omondi,0753618087,kdd693i,Toyota,Premio,CBD,Lavington,22/04/2025,18:21,19.2,Cash,completed,964,4
+192,FELIX WEKESA,+254735584587,Parklands,dennis chebet,0739-185-296,kda496f,Toyota,axio,WESTLANDS,Buruburu,28/03/2025,21:24,20.7,Cash,COMPLETED,1032,0
+193,Felix Wafula,+254752573081,Karen,DIANA KAMAU,0731-284-168,KDD156F,Nissan,Advan,Parklands,Parklands,20/03/25,09:02,,Card,Completed,1234,4
+194,kevin mutua,0759899226,CBD,Moses Kariuki,0781400181,KDD693I,Toyota,Premio,Parklands,Karen,20/01/2025,22:48,,card,COMPLETED,KES 730,4
+195,Felix Achieng,0754759100,,Dennis Chebet,,KDB833G,Toyota,Fielder,parklands,Parklands,04/03/2025,06:26,-14.7,CARD,Completed,762,4
+196,  Joy Nyambura  ,+254733240353,Ngong Road,  Dennis Chebet  ,0739185296, KDE169J ,Mazda,DEMIO,Parklands,parklands,04-25-2025,20:37,8,Cash,COMPLETED,460,3
+197,Cynthia Chebet,0740139268,Langata,Diana Barasa,0713263844, KDD693I ,TOYOTA,premio,Runnda,Kasarani,2025-03-14,11:49,2.1,CARD,Completed,195,4
+198,Cynthia Mwangi,+254725121694,Langata,  Dennis Chebet  ,0739185296,KDE169J,Mazda,DEMIO,Parklands,Runnda,2025-05-08,19:50,25.8,M-PESA,COMPLETED,1261,5
+199,Kevin Mutua,0759899226,,  Brian Mutua  ,0774860677,KDC598H,nissan,Note,Parklands,Kasarani,14/02/25,14:29,23.3,Cash,Completed,1149,0
+200,Mercy Nyambura,0795-540-297,Embakasi,David Kiprotich,0749589840,kdc598h,Nissan,Note,CBD,CBD,01-12-2025,21:54,29.6,Card,Completed,1432,0
+201,Samuel Cheruiyot,0744365845,Parklands,DENNIS CHEBET,,KDA950K,HONDA,Fit,KAREN,Lavington,2025-01-06,13:52,,CARD,Completed,807,3
+202,Hassan Wafula,0736980151,Langata,DIANA BARASA,+254713263844,KDA950K,Honda,fit,Westlands,Parklands,06-27-2025,13:40,13.7,M-Pesa,Completed,717,3
+203,Samuel Mwangi,0765-635-406,,Brian Mutua,0774-860-677, KDE501G ,Toyota,Wish,Kasarrani,Langata,04-12-2025,18:12,30.7,m-pesa,completed,1482,5
+204,Winnie Wafula,0781-470-948,Lavington,brian otieno,0744-810-301,KDB833G,Toyota,Fielder,Westlands,Kilimani,18/04/2025,17:16,30.1,Cash,Completed,"KES 1,455",3
+205,hassan wafula,0736980151,Langata,Brian Otieno,0744810301,KDB560L,Toyota,Vitz,Kasarani,Ngong Road,09/03/25,21:56,26.7,Cash,completed,1302,4
+206,Brian Otieno,0797729125,South B,Moses Kariuki,0781400181,kda950k,Honda,Fit,Kasarani,ngong road,2025-04-23,22:45,8.2,Cash,COMPLETED,469,3
+207,Felix Wafula,0752-573-081,Karen,diana kamau,,KDB833G,toyota,FIELDER,Lavington,South B,2025-03-22,12:20,,M-PESA,COMPLETED,712,5
+208,Hassan Wafula,0736980151,Langata,DIANA KAMAU,+254731284168,kde501g,Toyota,Wish,Westlands,Westlands,10/03/25,10:00,13.4,Cash,Completed,703,0
+209,Samuel Mwangi,0765-635-406,BURUBURU,ELIAS CHERUIYOT,0779736929,kdb560l,Toyota,Vitz,Kasarani,Parklands,19/04/2025,17:32,32.9,M-Pesa,completed,"KES 1,581",4
+210,Mercy Nyambura,0795540297,Embakasi,Diana Kamau,0731284168,KDB833G,Toyota,Fielder,Kilimani,Ngong Road,2025-03-04,16:24,2.8,M-Pesa,completed,226,5
+211,VICTOR WEKESA,0766929084,Westlands,Brian Kamau,0777194079,kdb833g,TOYOTA,Fielder,Kasarani,South C,2025-01-01,16:45,28.4,m-pesa,Completed,"KES 1,378",3
+212,Samuel Omondi,0720-576-936,Langata,Brian Mutua,0774860677,KDC384M,Subaru,Impreza,Ngong Road,Karen,2025-03-20,15:51,28.8,Card,Completed,1396,5
+213,Hassan Wafula,0736980151,langata,david kiprotich,0749-589-840,KDD156F,nissan,Advan,Parklands,South B,25/01/2025,09:33,28.8,M-Pesa,Completed,1396,4
+214,Ivy Njoroge,0752847276,Burubburu,brian mutua,0774-860-677,KDA496F,toyota,Axio,CBD,Lavington,05-18-2025,16:56,15.3,M-Pesa,Completed,KES 789,5
+215,Grace Odhiambo,0759785686,langata,Brian Mutua,0774860677,KDC384M,Subaru,impreza,Westlands,westlands,01-22-2025,17:39,5.3,M-Pesa,Completed,339,4
+216,Samuel Omondi,0720576936,Langata,Hassan Wafula,0716564365,KDD156F,Nissan,Advan,Ngong Road,SOUTH B,2025-06-01,18:02,24.1,card,Completed,1185,6
+217,Felix Wekesa,0735-584-587,Parklands,DIANA KAMAU,0731-284-168,KDA496F,Toyota,Axio,Embakasi,Runda,2025-02-28,08:21,27.6,Card,Completed,1342,0
+218,ivy njoroge,0752847276,Buruburu,Victor Odhiambo,0746693891,KDD156F,Nissan,Advan,CBD,South C,27/04/2025,17:49,30.2,cash,Completed,1459,4
+219,  Victor Kariuki  ,0739420701,Kilimani,Brian Kamau,0777-194-079,kda542h,Mazda,Axela,westlands,,2025-06-21,18:01,23.9,CARD,completed,1176,5
+220,FAITH KARIUKI,0793595589,CBD,diana barasa,+254713263844,kdc384m,Subaru,Impreza,BURUBURU,parklands,2025-01-04,16:21,1.9,CARD,Completed,186,3
+221,DIANA CHEBET,0763-344-725,Kasarani,DENNIS CHEBET,0739185296,kdb560l,Toyota,Vitz,South C,Langata,2025-05-10,20:28,14.4,cash,Completed,748,3
+222,grace odhiambo,0759-785-686,Langata,moses kariuki,0781400181,KDA950K,Honda,FIT,Karren,,07/01/25,11:20,28.8,Card,Completed,1396,0
+223,BRIAN OTIENO,0797-729-125,South B,Hassan Wafula,0716564365,KDE169J,Mazda,demio,CBD,,2025-01-09,13:33,9,CARD,Completed,505,5
+224,Grace Odhiambo,0759785686,LANGATA,diana kamau,0731-284-168,KDD156F,NISSAN,Advan,Ngong Road,Kasarani,2025-02-03,17:23,19.7,CASH,completed,987,
+225,Mercy Wekesa,0797593711,westlands,Moses Omondi,0753618087,KDA542H,Mazda,Axela,Kilimani,Kilimmani,2025-06-11,10:06,5.3,Card,Completed,339,4
+226,MERCY NYAMBURA,0795540297,Embakasi,David Kiprotich,0749589840,kda496f,Toyota,axio,Kasarani,cbd,16/06/2025,08:26,6.9,CASH,Completed,411,3
+227,Winnie Wafula,0781470948,Lavington,Brian Otieno,0744810301, KDA542H ,Mazda,AXELA,Kilimani,langata,06/06/2025,20:41,5,Card,Completed,325,5
+228,  Felix Wafula  ,+254752573081,karen,Mercy Wanjiru,0781747623,KDA542H,Mazda,Axela,Buruburu,Parkllands,2025-03-26,11:01,4,Card,Completed,280,3
+229,Grace Odhiambo,0759785686,Langgata,Mercy Wanjiru,0781747623,KDA950K,Honda,Fit,Embakasi,Parklands,05/04/2025,09:37,28.9,CASH,Completed,1401,4
+230,Kevin Mutua,0759899226,CBD,hassan wafula,0716564365,KDA542H,Mazda,Axela,Soutth C,Kilimani,2025-05-17,20:09,10.6,mpesa,Completed,577,5
+231,Brian Wanjiru,0784-844-636,Kasarani,Diana Kamau,,KDA950K,Honda,Fit,Kilimani,Kilimani,23/03/2025,06:35,14.4,M-Pesa,Completed,KES 748,5
+232,Diana Chebet,0763344725,Kasarani,Moses Omondi,0753618087,kdb560l,TOYOTA,Vitz,Langata,EMBAKASI,2025-03-23,09:28,23.5,CARD,Completed,1158,4
+233,Brian Wanjiru,0784844636,Kasarani,MERCY WANJIRU,0781747623,KDB833G,Toyota,Fielder,Ngong Road,Lavinngton,04/01/2025,10:33,2.9,Cash,Completed,KES 231,4
+234,Hassan Wafula,,Langgata,Amina Omondi,0734-239-702, KDB833G ,Toyota,Fielder,westlands,Ngong Road,2025-06-11,18:30,24.2,Card,completed,1189,3
+235,kevin mutua,0759899226,CBD,  Amina Omondi  ,0734-239-702,KDB833G,Toyota,Fielder,South B,South B,2025-02-22,18:15,10.6,Cash,Completed,577,5
+236,Felix Achieng,0754759100,South B,Diana Barasa,0713263844,KDA496F,Toyota,Axio,CBD,Parklands,2025-01-22,13:18,,mpesa,Completed,"KES 1,108",3
+237,Samuel Mwangi,0765635406,Buruburu,moses kariuki,0781400181, KDD156F ,Nissan,Advan,CBD,Embakasi,01-13-2025,20:46,11,Card,Completed,595,4
+238,Cynthia Mwangi,0725121694,langata,Elias Cheruiyot,0779736929,KDE501G,Toyota,WISH,SOUTH B,South C,2025-01-10,11:14,33.4,cash,Complete,1603,3
+239,David Achieng,+254728832187,Runda,  Elias Cheruiyot  ,+254779736929,KDC598H,NISSAN,Note,Embakasi,cbd,06-01-2025,19:49,31.6,Cash,Completed,"KES 1,522",4
+240,Grace Odhiambo,0759785686,Langata,Moses Kariuki,0781400181,KDB560L,Toyota,Vitz,Westlands,BURUBURU,2025-01-07,07:03,19.3,Cash,Complete,969,
+241,Faith Kariuki,0793595589,CBD,Moses Omondi,0753618087,kdb833g,Toyota,Fielder,Parklands,Lavington,11/04/2025,14:36,25.1,M-Pesa,Complete,1230,5
+242,Mercy Wekesa,0797593711,Westlands,david kiprotich,0749-589-840,kdb560l,Toyota,Vitz,WESTLANDS,Embakasi,13/04/2025,14:07,13,M-Pesa,Completed,685,4
+243,David Achieng,0728832187,Runda,Elias Cheruiyot,0779736929,KDA496F,Toyota,AXIO,Kasarani,PARKLANDS,06-02-2025,10:50,11.5,CASH,COMPLETED,618,3
+244,Hassan Wafula,0736980151,LANGATA,Brian Otieno,0744810301,KDE501G,Toyota,Wish,CBD,Embakasi,2025-01-22,07:45,5.9,M-Pesa,Completed,366,5
+245,Mercy Barasa,0766847125,Buruburu,brian otieno,0744810301,KDD156F,Nissan,Advan,south c,KILIMANI,2025-03-28,12:03,9.1,M-PESA,Completed,510,3
+246,samuel mwangi,,BURUBURU,Diana Barasa,0713263844,kdc384m,Subaru,Impreza,buruburu,buruburu,06-06-2025,11:33,25.8,Card,Completed,1261,
+247,GRACE ODHIAMBO,0759785686,Langgata,Moses Omondi,0753618087,KDD693I,Toyota,premio,Parklands,Runda,17/05/2025,16:00,26.2,CASH,Completed,"KES 1,279",6
+248,Winnie Wafula,0781470948,Lavington,ELIAS CHERUIYOT,0779736929,KDA542H,Mazda,Axela,South B,lavington,2025-05-21,22:06,15,Cash,Completed,KES 775,5
+249,Winnie Wafula,0781470948,Lavington,mercy wanjiru,0781747623,KDD156F,Nissan,ADVAN,LANGATA,Langata,05/05/2025,18:32,34.6,M-Pesa,Completed,1657,3
+250,IVY NJOROGE,+254752847276,Buruburu,David Kiprotich,0749589840,KDA496F,Toyota,Axio,Ngong Road,Parklands,2025-05-21,21:33,4.2,M-Pesa,Complete,KES 289,5
+251,Felix Wafula,0752573081,Karen,Diana Kamau,0731284168,KDC598H,Nissan,Note,CBD,Kilimani,13/06/25,14:34,7.7,Cash,completed,447,5
+252,Faith Mwangi,0717791214,South B,Hassan Wafula,0716-564-365,KDB833G,Toyota,Fielder,Lavinngton,CBD,18/05/25,17:44,11.6,Card,COMPLETED,622,4
+253,faith mwangi,0717791214,SOUTH B,Hassan Wafula,0716564365,KDA542H,Mazda,Axela,lavington,Langata,2025-04-19,08:39,15.5,Card,Completed,798,4
+254,Samuel Omondi,0720576936,LANGATA,amina omondi,0734239702,KDD693I,TOYOTA,Premio,CBD,runda,22/06/25,07:11,,Cash,Completed,690,5
+255,  Samuel Mwangi  ,,Buruburu,Diana Barasa,0713263844,kdc598h,Nissan,Note,CBD,RUNDA,03-23-2025,10:38,22.9,Card,Completed,1131,4
+256,Mercy Barasa,0766847125,Buruburu,Hassan Wafula,0716564365,KDB560L,Toyota,Vitz,South B,Karen,2025-03-27,13:35,27.6,Card,Completed,1342,3
+257,kevin mutua,0759899226,CBD,  David Kiprotich  ,0749589840,kda496f,Toyota,AXIO,Embakasi,WESTLANDS,16/02/25,13:37,32.7,cash,Completed,1572,4
+258,Mercy Nyambura,0795540297,Embakasi,ELIAS CHERUIYOT,0779-736-929,KDA496F,toyota,AXIO,Kilimani,Parkllands,2025-03-05,20:50,5.3,Cash,completed,339,3
+259,Kevin Mutua,0759-899-226,CBD,David Kiprotich,+254749589840,KDE169J,Mazda,demio,Karen,,03-27-2025,06:59,21.3,Cash,COMPLETED,1059,4
+260,James Wafula,0736895771,buruburu,DAVID KIPROTICH,0749589840,KDE501G,Toyota,Wish,Langata,Parkllands,15/02/2025,15:17,16.7,Card,Completed,852,4
+261,Cynthia Chebet,0740139268,Langata,Amina Omondi,+254734239702,kda542h,Mazda,AXELA,Kilimani,KAREN,2025-03-03,14:42,29.5,CARD,completed,1428,5
+262,SAMUEL MWANGI,0765635406,BURUBURU,Victor Odhiambo,0746693891,KDB560L,Toyota,Vitz,Westlands,,2025-03-06,18:27,16.9,Card,Completed,860,4
+263,Samuel Cheruiyot,0744365845,Parklands,Moses Kariuki,0781400181,KDB560L,Toyota,Vitz,Ngong Road,Parklands,13/01/25,19:37,2.1,Cash,Completed,KES 195,4
+264,victor wafula,0777979240,South C,Brian Kamau,0777194079,KDA496F,TOYOTA,Axio,Lavington,Parkllands,2025-03-28,20:07,27.8,CASH,completed,1351,3
+265,victor kariuki,0739-420-701,,Elias Cheruiyot,0779736929,KDB833G,Toyota,fielder,KAREN,Westlands,2025-04-25,07:42,6.4,M-Pesa,COMPLETED,388,3
+266,victor wafula,0777-979-240,South C,Brian Mutua,0774860677,KDA950K,Honda,FIT,langata,Embakasi,02/03/25,13:23,-33.9,Cash,Completed,1626,4
+267,MERCY BARASA,0766-847-125,buruburu,  Moses Kariuki  ,0781400181, KDA542H ,mazda,Axela,Kasarani,Kilimani,2025-03-09,11:11,31.6,M-Pesa,Completed,"KES 1,522",4
+268,  James Wafula  ,0736895771,Buruburu,elias cheruiyot,0779736929,KDA542H,Mazda,Axela,CBD,Kilimani,2025-04-23,12:26,33.9,Cash,completed,1626,6
+269,Ivy Njoroge,0752847276,BURUBURU,elias cheruiyot,+254779736929,KDA542H,MAZDA,Axela,,Buruburu,03/05/25,14:39,12.1,Cash,COMPLETED,KES 645,4
+270,Samuel Omondi,0720576936,Langata,DAVID KIPROTICH,0749589840,KDE169J,Mazda,Demio,Kasarani,KASARANI,2025-01-03,17:04,4.7,Card,Completed,KES 312,4
+271,Mercy Nyambura,0795540297,EMBAKASI,Diana Barasa,0713263844, KDB560L ,Toyota,vitz,PARKLANDS,Ngong Road,04-22-2025,09:40,31.1,M-Pesa,completed,"KES 1,500",5
+272,Cynthia Chebet,+254740139268,Langata,Mercy Wanjiru,+254781747623,KDA542H,Mazda,Axela,Ngong Road,Ngong Road,06-20-2025,11:10,14.3,Card,completed,744,3
+273,Winnie Wafula,+254781470948,Lavington,dennis chebet,0739185296,KDB833G,Toyota,FIELDER,Langata,Embakasi,2025-06-01,16:39,10,mpesa,Completed,550,4
+274,Diana Chebet,0763344725,KASARANI,  Mercy Wanjiru  ,,KDC598H,NISSAN,Note,Buruburu,Burubburu,23/03/2025,08:36,27.8,Cash,Completed,"KES 1,351",5
+275,Joy Nyambura,0733-240-353,Ngong Road,David Kiprotich,0749589840,KDC384M,SUBARU,impreza,Westlands,Embakasi,2025-02-01,14:44,28.9,cash,Completed,1401,3
+276,Ivy Njoroge,+254752847276,BURUBURU,brian kamau,0777194079,KDC384M,Subaru,Impreza,SOUTH B,Kasarani,25/02/2025,21:55,-7.6,Card,Completed,KES 442,3
+277,Ivy Wanjiru,0716748321,Runda,Moses Omondi,0753618087,KDB833G,Toyota,Fielder,Karen,,01-05-2025,11:58,-1.7,card,Completed,177,4
+278,hassan wafula,,Langata,Diana Barasa,0713263844,KDD156F,NISSAN,ADVAN,Runda,lavington,12/06/2025,08:47,10.8,Cash,completed,586,0
+279,brian otieno,0797729125,South B,hassan wafula,0716564365,kda496f,Toyota,Axio,South B,Kasarani,26/02/2025,10:15,14.3,M-PESA,Completed,744,3
+280,Diana Wafula,+254738313151,WESTLANDS,  Dennis Chebet  ,0739185296, KDB560L ,Toyota,Vitz,Ngong Road,SOUTH C,18/02/2025,09:36,5.6,CARD,COMPLETED,KES 352,3
+281,Samuel Cheruiyot,,Parklands,Diana Kamau,,kda950k,Honda,Fit,CBD,KILIMANI,2025-03-12,10:11,2.6,M-Pesa,Completed,KES 217,3
+282,  Ivy Wanjiru  ,,Runda,VICTOR ODHIAMBO,+254746693891,KDB560L,TOYOTA,Vitz,Langata,Embakasi,2025-04-27,16:27,2.7,cash,COMPLETED,222,3
+283,  Mercy Barasa  ,0766847125,Buruburu,Mercy Wanjiru,0781-747-623, KDD156F ,Nissan,Advan,Westlands,CBD,25/01/2025,17:12,5.3,Card,Completed,KES 339,3
+284,FELIX WEKESA,0735584587,Parklands,Moses Omondi,+254753618087, KDA542H ,Mazda,axela,Soutth C,Buruburu,06-27-2025,13:13,19.9,CASH,Completed,KES 995,4
+285,Brian Otieno,0797729125,South B,David Kiprotich,0749589840,kda950k,honda,Fit,CBD,SOUTH C,03/03/2025,11:14,4.1,CARD,Completed,285,5
+286,SAMUEL CHERUIYOT,0744365845,Parklands,David Kiprotich,0749-589-840,kdc384m,Subaru,Impreza,Kilimani,Buruburu,23/02/2025,11:47,23.5,Card,Completed,1158,5
+287,FELIX ACHIENG,0754759100,South B,Hassan Wafula,0716564365, KDA496F ,Toyota,Axio,LAVINGTON,Lavington,2025-02-08,11:49,-21.5,m-pesa,Completed,1068,3
+288,CYNTHIA CHEBET,+254740139268,Langata,David Kiprotich,+254749589840,KDB560L,Toyota,Vitz,Langata,Embakkasi,2025-06-08,08:01,21.4,Cash,Completed,1063,3
+289,Brian Otieno,0797729125,South B,  Hassan Wafula  ,0716564365,KDA950K,Honda,Fit,,Parklands,2025-06-18,18:31,18.2,M-Pesa,completed,919,5
+290,Grace Odhiambo,0759785686,Langata,Brian Mutua,0774860677,KDE501G,Toyota,Wish,South C,Karen,2025-04-10,13:40,21.7,M-Pesa,COMPLETED,1077,4
+291,Felix Achieng,0754-759-100,South B,  Victor Odhiambo  ,0746693891,KDC598H,Nissan,Note,parklands,KASARANI,2025-05-13,22:14,14.8,Card,COMPLETED,KES 766,5
+292,ivy wanjiru,0716748321,Runda,Amina Omondi,0734239702,kdd693i,toyota,Premio,Ngong Road,BURUBURU,2025-06-07,19:37,12.3,Cash,completed,654,4
+293,mercy nyambura,+254795540297,Embakasi,Brian Otieno,+254744810301,KDB833G,Toyota,Fielder,Ngong Road,CBD,2025-05-13,19:33,32.3,Cash,Complete,1553,5
+294,JAMES WAFULA,0736895771,Buruburu,diana barasa,0713-263-844,KDC384M,subaru,IMPREZA,Parklands,westlands,2025-05-03,06:06,3.5,Cash,Completed,KES 258,4
+295,Victor Wekesa,0766929084,Westlands,brian kamau,0777194079, KDD693I ,Toyota,Premio,RUNDA,Kilimani,19/02/25,14:11,22.3,Card,completed,1104,5
+296,Victor Kariuki,0739420701,KILIMANI,MERCY WANJIRU,0781747623,KDC384M,Subaru,Impreza,Westlands,Embakasi,2025-02-28,12:36,27,cash,Completed,1315,4
+297,Ivy Wanjiru,0716748321,Runda,brian kamau,,kdb833g,toyota,Fielder,South C,ngong road,02/02/2025,12:10,33,CASH,COMPLETED,"KES 1,585",3
+298,Joy Nyambura,+254733240353,ngong road,Dennis Chebet,0739-185-296,KDB833G,TOYOTA,Fielder,Lavington,Westlands,25/02/2025,09:31,3.2,Cash,Completed,244,4
+299,grace odhiambo,0759785686,langata,Brian Kamau,0777194079,KDA496F,TOYOTA,Axio,South C,SOUTH C,13/03/2025,16:07,9,M-Pesa,COMPLETED,505,4
+300,Felix Wafula,0752573081,Karen,mercy wanjiru,0781747623,KDD156F,nissan,advan,kilimani,Embakkasi,2025-03-06,20:20,8.1,Card,Completed,KES 465,5
+301,samuel omondi,0720576936,Langata,Dennis Chebet,0739185296,KDE169J,Mazda,Demio,EMBAKASI,South C,10/01/2025,19:46,17.1,m-pesa,Completed,870,4
+302,Victor Wekesa,0766-929-084,WESTLANDS,Victor Odhiambo,0746693891,KDA542H,Mazda,AXELA,Ngong Road,south c,11/02/25,20:26,6.8,Card,completed,406,5
+303,Mercy Barasa,0766847125,buruburu,Elias Cheruiyot,0779736929,KDC598H,Nissan,Note,,Buruburu,2025-03-16,06:45,23.7,cash,Complete,1167,0
+304,felix wafula,0752573081,Karen,mercy wanjiru,0781747623,KDB833G,Toyota,Fielder,,Kilimani,2025-01-19,19:11,33.3,mpesa,completed,1598,5
+305,Mercy Wekesa,0797593711,Westlands,Brian Mutua,0774860677,KDA496F,Toyota,Axio,RUNDA,South C,04/04/2025,14:42,34.2,M-PESA,COMPLETED,1639,4
+306,Faith Kariuki,0793595589,CBD,MOSES OMONDI,0753618087,KDC384M,Subaru,Impreza,Karen,Langgata,2025-05-03,17:36,21.5,Card,Completed,1068,3
+307,Winnie Wafula,0781470948,LAVINGTON,Diana Barasa,0713263844,KDD156F,Nissan,Advan,South B,Kilimani,02/02/25,20:26,30.2,cash,Completed,1459,5
+308,diana chebet,0763344725,kasarani,Brian Kamau,0777194079, KDA950K ,Honda,Fit,PARKLANDS,Kilimani,2025-02-20,18:13,32.9,Cash,COMPLETED,1581,4
+309,Samuel Cheruiyot,0744-365-845,Parkllands,DAVID KIPROTICH,0749589840, KDE169J ,Mazda,Demio,WESTLANDS,Kilimani,2025-02-07,08:01,4,M-Pesa,Completed,280,0
+310,Samuel Mwangi,0765635406,Buruburu,  Moses Omondi  ,,kdd693i,TOYOTA,premio,Buruburu,Soutth C,09/03/25,06:27,10.9,M-Pesa,Completed,KES 591,5
+311,david achieng,0728-832-187,Runda,Dennis Chebet,0739185296,KDA542H,Mazda,Axela,South C,embakasi,2025-06-05,06:53,30.5,Cash,COMPLETED,1473,4
+312,Cynthia Chebet,0740139268,Langata,Elias Cheruiyot,0779736929,KDD693I,Toyota,PREMIO,Ngong Road,Buruburu,2025-03-17,10:01,16.6,M-Pesa,Complete,847,3
+313,JOY NYAMBURA,+254733240353,NGONG ROAD,Diana Kamau,0731284168,KDB833G,Toyota,Fielder,Ngong Road,South B,2025-02-11,13:17,6.3,M-Pesa,completed,384,
+314,VICTOR KARIUKI,0739420701,Kilimani,Amina Omondi,0734239702, KDA950K ,Honda,Fit,Kasarani,Embakasi,2025-03-28,17:25,-13.1,M-Pesa,Completed,KES 690,3
+315,SAMUEL MWANGI,,Buruburu,Brian Kamau,0777194079,KDA950K,Honda,Fit,Karen,Runda,23/05/2025,09:09,16.9,Card,Completed,860,5
+316,Faith Mwangi,0717791214,south b,Mercy Wanjiru,0781747623,KDA542H,mazda,AXELA,south c,Runda,17/03/2025,15:47,23.3,card,completed,"KES 1,149",3
+317,Mercy Wekesa,0797593711,westlands,David Kiprotich,0749589840,KDC384M,SUBARU,impreza,Runda,SOUTH C,2025-01-06,17:14,7,M-Pesa,COMPLETED,415,5
+318,victor wekesa,0766-929-084,Westlands,Brian Mutua,0774860677, KDC384M ,Subaru,impreza,Westlands,CBD,09/01/2025,08:44,16,Card,Completed,820,5
+319,brian wanjiru,,kasarani,Hassan Wafula,0716564365, KDB833G ,toyota,Fielder,CBD,Langata,2025-04-24,14:12,17.5,cash,Completed,KES 888,5
+320,Kevin Mutua,0759899226,CBD,elias cheruiyot,0779736929,KDE169J,Mazda,Demio,NGONG ROAD,Ngong Road,02/04/2025,11:29,28.3,CASH,Completed,1374,3
+321,Faith Kariuki,0793595589,CBD,BRIAN KAMAU,0777194079,KDC384M,SUBARU,Impreza,,Westllands,19/03/25,22:07,27.9,card,cancelled,KES 0,
+322,Mercy Barasa,+254766847125,Buruburu,Dennis Chebet,0739185296,kdd693i,Toyota,PREMIO,Kilimmani,ngong road,04-06-2025,18:31,17.7,Card,CANCELLED,0,NULL
+323,Victor Wafula,+254777979240,South C,Moses Kariuki,0781-400-181,KDB833G,Toyota,Fielder,Langgata,Langata,2025-01-25,17:31,19.5,Card,Cancelled,0,NULL
+324,Victor Kariuki,0739420701,kilimani,Brian Kamau,,KDD693I,Toyota,Premio,Langata,Runda,2025-01-13,07:07,6.3,mpesa,Cancelled,0,
+325,Mercy Nyambura,0795540297,Embakasi,Dennis Chebet,0739185296, KDE169J ,mazda,DEMIO,Langata,South B,15/06/2025,10:38,5.6,Card,Cancelled,0,NULL
+326,SAMUEL CHERUIYOT,+254744365845,Parklands,Diana Kamau,0731-284-168,KDB560L,TOYOTA,Vitz,LAVINGTON,South B,05/04/2025,17:51,4.9,Cash,Cancelled,KES 0,NULL
+327,Felix Achieng,0754759100,South B,moses kariuki,0781400181,KDE501G,Toyota,Wish,Buruburu,Soutth B,2025-04-13,14:12,5.5,cash,Cancelled,KES 0,
+328,Mercy Barasa,0766847125,Buruburu,Hassan Wafula,0716564365,KDB560L,Toyota,Vitz,Kasarani,Lavington,2025-01-03,13:49,34,M-Pesa,Cancelled,KES 0,
+329,WINNIE WAFULA,0781470948,Lavington,elias cheruiyot,0779736929,KDA542H,Mazda,Axela,buruburu,South B,2025-02-17,16:30,22.8,Card,Cancelled,0,NULL
+330,Samuel Omondi,0720576936,Langata,Elias Cheruiyot,+254779736929,KDA496F,toyota,Axio,Kasarani,Ngong Road,2025-02-19,15:04,34.6,mpesa,Cancelled,0,
+331,Grace Odhiambo,+254759785686,langata,Elias Cheruiyot,0779-736-929,KDA542H,Mazda,Axela,Langata,SOUTH B,2025-04-07,21:59,27.6,M-Pesa,Cancelled,0,NULL
+332,Diana Chebet,0763344725,KASARANI,Dennis Chebet,0739185296,kda950k,honda,fit,WESTLANDS,Parklands,2025-02-25,12:58,22.3,Card,Cancelled,0,
+333,victor wafula,0777-979-240,SOUTH C,Amina Omondi,0734239702,KDB560L,TOYOTA,Vitz,Kilimani,WESTLANDS,2025-02-07,11:12,27.7,M-PESA,cancelled,0,NULL
+334,IVY NJOROGE,0752847276,Buruburu,Victor Odhiambo,0746693891,KDB560L,TOYOTA,Vitz,Ngong Road,SOUTH B,16/02/2025,15:48,25,M-Pesa,Cancelled,0,NULL
+335,Diana Wafula,0738313151,Westlands,Diana Barasa,0713263844,kdd693i,toyota,Premio,Embakasi,BURUBURU,2025-01-13,10:20,18.8,Card,CANCELLED,KES 0,NULL
+336,Samuel Cheruiyot,0744365845,PARKLANDS,Diana Kamau,0731284168,KDD693I,toyota,Premio,kilimani,Langata,2025-06-12,17:47,-8.2,M-PESA,Cancelled,KES 0,
+337,DIANA CHEBET,0763344725,Kasarani,BRIAN MUTUA,0774860677,KDE169J,Mazda,Demio,NGONG ROAD,Ngong Road,05-23-2025,06:10,33.8,Card,Cancelled,0,NULL
+338,SAMUEL CHERUIYOT,0744-365-845,Parklands,DENNIS CHEBET,0739185296,kdc598h,Nissan,Note,South C,Karen,2025-03-09,10:50,19.4,Card,Cancelled,0,
+339,James Wafula,,Buruburu,elias cheruiyot,0779736929,KDA542H,Mazda,Axela,Lavington,South B,2025-05-01,15:58,-4.2,mpesa,CANCELLED,0,
+340,Mercy Nyambura,0795540297,Embakasi,Hassan Wafula,0716564365,KDE169J,Mazda,Demio,Ngong Road,Langata,12/05/2025,07:36,14.5,m-pesa,Cancelled,0,
+341,SAMUEL OMONDI,0720576936,Langata,Diana Barasa,0713-263-844,KDE501G,Toyota,WISH,CBD,Kasarani,2025-01-03,12:21,29.2,M-Pesa,CANCELLED,0,NULL
+342,  James Wafula  ,0736895771,BURUBURU,Mercy Wanjiru,,kda496f,TOYOTA,Axio,cbd,South B,12/05/2025,21:02,27.7,M-PESA,cancelled,0,
+343,David Achieng,0728832187,runda,HASSAN WAFULA,+254716564365,KDE169J,mazda,demio,Langata,Lavington,04/06/2025,07:58,24.1,m-pesa,Cancelled,KES 0,NULL
+344,  Diana Wafula  ,0738313151,Westlands,DIANA BARASA,0713263844, KDA950K ,Honda,fit,Parklands,PARKLANDS,2025-01-09,10:28,15.9,M-Pesa,CANCELLED,0,NULL
+345,Brian Otieno,+254797729125,south b,DIANA KAMAU,,kdd156f,Nissan,Advan,LAVINGTON,,2025-06-23,10:35,11.4,Card,cancelled,KES 0,
+346,  Samuel Cheruiyot  ,0744365845,Parklands,Diana Barasa,0713263844,KDA496F,toyota,Axio,SOUTH C,Kasarrani,01/02/25,07:12,15.6,mpesa,cancelled,KES 0,
+347,  Samuel Omondi  ,+254720576936,Langata,HASSAN WAFULA,0716564365,KDE501G,toyota,Wish,Parklands,cbd,2025-06-23,10:35,24.5,Cash,Cancelled,0,
+348,David Achieng,0728-832-187,Runda,DIANA KAMAU,+254731284168,KDE169J,Mazda,Demio,CBD,Kilimmani,16/01/2025,10:37,18.3,Card,CANCELLED,KES 0,
+349,Mercy Barasa,0766847125,buruburu,HASSAN WAFULA,0716564365,kda496f,TOYOTA,AXIO,Kasarani,embakasi,03-02-2025,13:06,17.9,CARD,CANCELLED,0,NULL
+350,JAMES WAFULA,0736895771,Burubburu,Dennis Chebet,0739185296,kda496f,Toyota,Axio,Kilimani,,2025-04-14,09:23,12.4,Cash,Cancelled,KES 0,NULL
+351,  Samuel Mwangi  ,0765-635-406,BURUBURU,Dennis Chebet,0739185296,KDE501G,Toyota,Wish,Buruburu,langata,02/01/25,06:04,25.4,m-pesa,CANCELLED,0,NULL
+352,Hassan Wafula,0736980151,Langata,Elias Cheruiyot,0779736929,KDA496F,Toyota,axio,Westlands,NGONG ROAD,01-25-2025,20:09,21.8,Card,Cancelled,0,NULL
+353,Victor Wafula,0777979240,South C,Brian Kamau,0777194079,kde169j,Mazda,Demio,buruburu,Buruburu,19/01/2025,21:54,17.9,cash,CANCELLED,0,
+354,Ivy Wanjiru,+254716748321,Runda,Brian Kamau,, KDA496F ,Toyota,Axio,,Parklands,2025-05-13,22:24,-29.9,Card,Cancelled,0,NULL
+355,Victor Wafula,0777979240,South C,  Amina Omondi  ,0734-239-702, KDD156F ,Nissan,Advan,Runda,SOUTH B,15/06/2025,19:06,10.9,M-Pesa,Cancelled,KES 0,NULL
+356,Joy Nyambura,0733240353,Ngong Road,ELIAS CHERUIYOT,0779736929,kdc598h,Nissan,Note,South C,Embakasi,2025-03-05,14:54,18.3,M-Pesa,CANCELLED,0,
+357,Kevin Mutua,+254759899226,CBD,hassan wafula,0716564365,KDD693I,Toyota,Premio,Lavington,Embakasi,2025-02-13,07:41,-35,mpesa,cancelled,0,
+358,Felix Achieng,0754-759-100,SOUTH B,Hassan Wafula,0716-564-365,KDC598H,Nissan,Note,Karen,kasarani,14/06/2025,18:00,15.2,Cash,cancelled,0,NULL
+359,Felix Wafula,0752-573-081,Karen,Elias Cheruiyot,+254779736929,kde169j,Mazda,Demio,cbd,South B,02-08-2025,19:51,7.6,CASH,CANCELLED,0,
+360,James Wafula,0736-895-771,Buruburu,  Moses Omondi  ,0753618087,KDB560L,Toyota,Vitz,Parkllands,South C,17/05/25,22:25,8.6,M-Pesa,Cancelled,0,
+361,Victor Wafula,,South C,Diana Barasa,0713263844,kde169j,Mazda,Demio,CBD,lavington,2025-06-18,08:43,8.9,Cash,cancelled,0,
+362,FELIX WEKESA,0735584587,,Brian Otieno,0744810301,KDC384M,Subaru,Impreza,Lavington,Kasarani,2025-02-08,14:40,28,CASH,cancelled,0,
+363,Mercy Barasa,0766847125,Buruburu,amina omondi,0734239702,kdd156f,Nissan,Advan,Kilimani,,27/01/2025,12:37,34.8,Cash,cancelled,KES 0,
+364,Samuel Mwangi,+254765635406,Buruburu,Brian Otieno,+254744810301,KDA496F,Toyota,Axio,Langgata,CBD,2025-04-22,08:23,24.5,M-PESA,Cancelled,0,NULL
+365,David Achieng,0728832187,Runda,David Kiprotich,0749589840, KDD693I ,Toyota,Premio,LANGATA,Embakasi,02/02/25,21:28,12.7,M-Pesa,Cancelled,0,NULL
+366,Hassan Wafula,0736980151,Langgata,diana barasa,0713263844,KDB560L,Toyota,Vitz,Kilimmani,SOUTH B,2025-02-19,08:48,7.4,M-Pesa,Cancelled,0,
+367,Faith Mwangi,+254717791214,South B,Amina Omondi,0734-239-702,KDE501G,Toyota,Wish,karen,South B,2025-03-22,17:42,16.2,M-Pesa,cancelled,0,
+368,brian otieno,0797-729-125,south b,Moses Kariuki,0781400181,KDD156F,Nissan,Advan,CBD,South C,2025-02-18,18:30,6.4,M-Pesa,Cancelled,KES 0,
+369,faith mwangi,,South B,Hassan Wafula,0716-564-365,kdd693i,Toyota,premio,Buruburu,KILIMANI,26/05/2025,15:31,14.1,M-Pesa,No-Show,0,NULL
+370,Kevin Mutua,0759899226,CBD,Moses Omondi,0753618087,KDB833G,Toyota,Fielder,Runda,,01/04/25,14:35,31.7,Cash,No-Show,KES 0,NULL
+371,Cynthia Chebet,0740139268,Langata,Victor Odhiambo,0746693891,KDA496F,Toyota,Axio,Embakasi,Kilimani,06-24-2025,15:11,18.7,m-pesa,No-Show,0,
+372,Mercy Nyambura,0795540297,Embakasi,Brian Mutua,0774-860-677,KDB833G,Toyota,FIELDER,South B,Runda,2025-01-20,10:05,19.9,M-Pesa,No-Show,0,
+373,Diana Chebet,0763344725,Kasarani,david kiprotich,,kdb833g,Toyota,Fielder,Westlands,CBD,17/04/2025,16:15,19.7,Cash,No-Show,0,
+374,HASSAN WAFULA,0736980151,langata,Brian Otieno,0744-810-301,KDC598H,NISSAN,Note,Buruburu,Runda,2025-05-14,12:41,15.3,CASH,No-Show,KES 0,NULL
+375,Ivy Wanjiru,0716748321,Runda,moses omondi,0753-618-087,KDB560L,Toyota,Vitz,Runda,Kasarani,2025-03-04,09:57,10.2,Card,no-show,KES 0,NULL
+376,Cynthia Mwangi,0725121694,langata,Brian Otieno,0744810301,KDB833G,Toyota,fielder,ngong road,Lavington,2025-04-15,09:27,34.3,CARD,No Show,KES 0,NULL
+377,FELIX ACHIENG,0754759100,South B,Hassan Wafula,0716-564-365,KDD156F,NISSAN,Advan,Runda,south c,2025-01-16,18:35,23.6,card,No-Show,0,NULL
+378,Diana Chebet,0763-344-725,Kasarrani,DENNIS CHEBET,0739185296,KDE501G,Toyota,Wish,Westlands,Kasarani,2025-05-05,10:09,4.7,cash,no-show,0,NULL
+379,Faith Mwangi,0717-791-214,Soutth B,AMINA OMONDI,0734-239-702,KDD693I,Toyota,Premio,CBD,Parklands,28/06/2025,13:47,20.2,M-Pesa,No-Show,0,
+380,Samuel Mwangi,0765635406,Buruburu,Brian Mutua,0774860677,KDA496F,Toyota,Axio,westlands,Runda,2025-01-03,12:05,27.7,M-Pesa,No-Show,0,NULL
+381,Joy Nyambura,,Ngong Road,Elias Cheruiyot,0779736929,KDE169J,Mazda,Demio,Karen,CBD,2025-03-25,19:55,20.1,Cash,NO-SHOW,KES 0,
+382,BRIAN WANJIRU,0784844636,Kasarrani,Elias Cheruiyot,0779736929,KDA542H,Mazda,Axela,PARKLANDS,Runnda,05/01/2025,17:31,18,m-pesa,NO-SHOW,0,NULL
+383,Victor Wafula,0777979240,South C,MERCY WANJIRU,,kde501g,Toyota,Wish,Buruburu,RUNDA,09/05/25,09:03,7.8,M-PESA,No Show,KES 0,NULL
+384,Hassan Wafula,0736980151,Langata,Moses Omondi,0753618087, KDB560L ,Toyota,Vitz,south c,Embakasi,2025-06-17,12:50,30.6,M-Pesa,NO-SHOW,0,
+385,Mercy Wekesa,0797-593-711,,Mercy Wanjiru,+254781747623,KDA542H,Mazda,axela,South C,ngong road,03-28-2025,17:32,3.3,Cash,No Show,KES 0,NULL
+386,Brian Otieno,0797729125,SOUTH B,Moses Kariuki,0781400181,KDC598H,Nissan,Note,,,05-11-2025,06:38,24.7,Cash,No-Show,0,NULL
+387,cynthia mwangi,+254725121694,Langata,Amina Omondi,0734239702,KDE169J,Mazda,demio,KILIMANI,CBD,2025-03-28,19:40,10.9,CARD,No-Show,KES 0,NULL
+388,CYNTHIA MWANGI,0725121694,Langata,Diana Kamau,0731284168,KDE501G,Toyota,Wish,Runda,Karen,2025-04-04,16:05,23.7,Cash,No-Show,KES 0,
+389,Winnie Wafula,0781470948,Lavington,Dennis Chebet,0739185296,KDE169J,Mazda,DEMIO,South B,Kasarani,2025-05-07,06:15,33.1,M-Pesa,No-Show,0,
+390,  David Achieng  ,+254728832187,runda,BRIAN KAMAU,0777194079,KDD693I,TOYOTA,Premio,Runda,CBD,12/06/2025,22:49,25.3,Cash,No-Show,0,NULL
+391,Cynthia Mwangi,+254725121694,Langata,Amina Omondi,0734-239-702,KDA542H,Mazda,axela,NGONG ROAD,Soutth B,2025-02-01,09:24,19.5,M-Pesa,No-Show,0,NULL
+392,Samuel Mwangi,0765635406,buruburu,Brian Otieno,0744810301,kdc384m,subaru,Impreza,Karen,Parklands,27/04/2025,20:08,20.4,M-Pesa,no-show,KES 0,NULL
+393,  Ivy Wanjiru  ,+254716748321,Runda,BRIAN KAMAU,0777194079, KDC598H ,Nissan,Note,Parklands,LANGATA,2025-03-26,10:15,7.4,CARD,No Show,KES 0,
+394,David Achieng,0728832187,runda,Brian Mutua,0774-860-677,KDA542H,MAZDA,Axela,Westllands,South C,19/05/2025,21:32,4.9,Cash,No-Show,0,NULL
+395,Brian Wanjiru,0784-844-636,Kasarani,MOSES OMONDI,0753618087,KDC598H,nissan,Note,Langata,Westlands,12/04/25,15:41,23.4,Card,No-Show,KES 0,NULL
+396,SAMUEL OMONDI,0720576936,Langata,Hassan Wafula,0716564365,KDC384M,subaru,Impreza,kilimani,Parklands,2025-03-16,08:23,5.1,cash,no-show,0,NULL
+397,Brian Otieno,0797729125,South B,  Hassan Wafula  ,0716564365,KDA950K,Honda,FIT,Langata,embakasi,06/03/2025,06:49,33.8,M-PESA,no-show,0,NULL
+398,Brian Otieno,0797-729-125,South B,david kiprotich,0749589840, KDA496F ,Toyota,Axio,Langata,Buruburu,06-23-2025,13:29,11.4,M-Pesa,No-Show,0,
+399,  Victor Wekesa  ,0766929084,Westlands,hassan wafula,,kdc384m,Subaru,Impreza,Lavington,Embakasi,2025-05-01,21:10,5.9,CASH,No-Show,0,
+400,Victor Wekesa,+254766929084,Westlands,  Brian Kamau  ,+254777194079,KDD156F,NISSAN,Advan,Karen,Westlands,19/01/25,22:11,2.6,Card,NO-SHOW,0,NULL
+11,mercy wekesa,,WESTLANDS,DAVID KIPROTICH,0749-589-840,KDD156F,Nissan,Advan,Karen,Kasarani,03-22-2025,07:39,20.8,Card,completed,1036,4
+46,Brian Wanjiru,0784844636,KASARANI,Victor Odhiambo,0746-693-891,KDA950K,HONDA,fit,Buruburu,Embakasi,2025-04-06,15:15,28.3,cash,COMPLETED,1374,3
+79,Mercy Barasa,0766847125,BURUBURU,Moses Kariuki,0781400181, KDC598H ,nissan,note,Embakasi,Lavington,02-07-2025,14:31,15.4,CASH,completed,KES 793,4
+91,DIANA WAFULA,,Westlands,Amina Omondi,0734239702,KDA950K,honda,Fit,Runda,Ngong Road,02-17-2025,22:16,15.7,CARD,Completed,807,3
+112,James Wafula,+254736895771,,Dennis Chebet,0739185296,KDC598H,Nissan,Note,Westlands,Embakasi,2025-02-05,16:54,5,Cash,completed,KES 325,5
+131,faith kariuki,0793-595-589,CBD,David Kiprotich,0749-589-840,KDC598H,nissan,Note,Parklands,South B,2025-04-01,12:57,19.5,CARD,Completed,978,6
